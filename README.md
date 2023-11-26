@@ -19,7 +19,7 @@
 _(click the buttons!)_
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepthi-tabitha-bennet)
-[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DeepthiTabithaBennet)
+[![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirthick6)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-blue?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/17112163/deepthitabithabennet)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/deepthitabithabennet)
 [![Sololearn](https://img.shields.io/badge/-Sololearn-blue?style=for-the-badge&logo=sololearn&logoColor=white)](https://www.sololearn.com/Profile/17982313/?ref=app) 
