@@ -12,7 +12,7 @@
 
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Machine Learning-blue?style=for-the-badge&logo=Machine Learning&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-WordPress-blue?style=for-the-badge&logo=Deep Learning&logoColor=FFFFFF" height="30"> 
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Machine Learning-blue?style=for-the-badge&logo=Machine Learning&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Deep Learning-blue?style=for-the-badge&logo=Deep Learning&logoColor=FFFFFF" height="30"> 
 
 ### Find me on 
 
