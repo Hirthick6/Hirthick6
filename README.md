@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepthiTabithaBennet&style=flat-square" alt="https://github.com/DeepthiTabithaBennet" width="150" /> </p>
 
-### I'm a...   <img src="https://cdn.dribbble.com/users/1797155/screenshots/5018207/media/9894f398d34e1a20e94922b27e52e3e5.gif" height=15% width=40% align="right">
+### I'm a...   <img src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif" height=15% width=40% align="right">
 
 * Future Data Scientist 
 * SCOPUS Journal Paper Author
