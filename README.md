@@ -4,13 +4,22 @@
 ### I'm a...   <img src="https://camo.githubusercontent.com/6b065a63af6ffe542f29d852cf02f54382438901dd3ee35cafa1752e586a2306/68747470733a2f2f7777772e77656232347a6f6e652e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f31302f34363230372d70726f6772616d6d65722d312e676966" height=15% width=40% align="right">
 
 * Future Data Scientist 
-* SCOPUS Journal Paper Author
+* Deep Learning in Medical Image Processing and Analysis Paper Author
 * Self-Taught Coder
 * Demanding Perfectionist
 
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Machine Learning-blue?style=for-the-badge&logo=Machine Learning&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">   <img src="http://img.shields.io/badge/-Deep Learning-blue?style=for-the-badge&logo=Deep Learning&logoColor=FFFFFF" height="30"> 
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30">
+<img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30">
+<img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30">
+<img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=java&logoColor=FFFFFF" height="30">
+<img src="http://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=FFFFFF" height="30">
+<img src="http://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge&logo=machine-learning&logoColor=FFFFFF" height="30">
+<img src="http://img.shields.io/badge/-Deep%20Learning-blue?style=for-the-badge&logo=deep-learning&logoColor=FFFFFF" height="30">
+<img src="http://img.shields.io/badge/-Computer%20Vision-blue?style=for-the-badge&logo=computer-vision&logoColor=FFFFFF" height="30">
+<img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">
+
 
 ### Find me on 
 
