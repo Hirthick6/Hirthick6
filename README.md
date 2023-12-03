@@ -24,10 +24,14 @@ _(click the button!)_
 ### I'm Completed on Right Now
 * <a href="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16" target="_blank">
   <img src="https://www.theiet.org/media/2563/untitled-7.jpg" alt="Deep Learning Conference Papers" width="300" height="100">
-</a> <br> Link="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16"
+</a> <br> --> Link="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16"
 
+### I'm working on Right Now
+* Crop Prediction Model: Led the development of a machine learning model utilizing advanced regression and supervised algorithms like Random Forest to accurately forecast crop yields. The model, incorporating historical agricultural data and time series analysis, provides valuable insights for stakeholders and policymakers in the agribusiness sector.
 
-* [The Data Structures Survival Kit](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit) 😅
+* Real-Time Startup Success Predictor: Designed and implemented a real-time data classification system for a startup, employing Support Vector Machines and Neural Networks. The innovative approach, incorporating diverse features and continuous updates, enhanced decision-making processes and attracted investor attention.
+
+* Accelerometer-Based Human Activity Prediction: Researched and developed a robust machine learning model using accelerometer data and deep learning techniques. Achieved high accuracy in classifying human activities with a fine-tuned architecture, paving the way for applications in health monitoring, fitness tracking, and assistive technologies.
 
 -------------------------------------------------------------------------------------------------------
 ### My Github Stats
