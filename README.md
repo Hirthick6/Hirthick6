@@ -40,10 +40,8 @@ Researched and developed a robust machine learning model using accelerometer dat
 -------------------------------------------------------------------------------------------------------
 ### My Github Stats
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="languages" height="150"></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&layout=compact&theme=algolia&hide_border=true&langs_count=12" alt="languages" height="150"></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirthick6&" alt="hirthick6" /></p>
------
 - 👨‍💻 All of my projects are available at [https://github.com/Hirthick6](https://github.com/Hirthick6)
 
 -------------------------------------------------------------------------------------------------------
