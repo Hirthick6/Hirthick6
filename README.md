@@ -24,7 +24,7 @@ _(click the button!)_
 ### I'm Completed on Right Now
 * <a href="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16" target="_blank">
   <img src="https://www.theiet.org/media/2563/untitled-7.jpg" alt="Deep Learning Conference Papers" width="300" height="100">
-</a> <br>--><img src="https://img.shields.io/badge/-Deep learning conference paper -blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> 
+</a> <br>--><img src="Deep learning conference paper -blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> 
 
 
 * [The Data Structures Survival Kit](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit) 😅
