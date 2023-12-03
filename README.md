@@ -42,7 +42,8 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 <img src="https://github-profile-trophy.vercel.app/?username=hirthick&row=1&column=3&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020,Commit,Star" height="120">
 
-[![Hirthick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepthiTabithaBennet&theme=react-dark&hide_border=true&line=00AEFF&color=FFFFFF&point=2DDE98&bg_color=050F2C)](https://github.com/DeepthiTabithaBennet/github-readme-activity-graph)
+[![DeepthiTabithaBennet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepthiTabithaBennet&theme=react-dark&hide_border=true&line=00AEFF&color=FFFFFF&point=2DDE98&bg_color=050F2C)](https://github.com/DeepthiTabithaBennet/github-readme-activity-graph)
+
 
 -------------------------------------------------------------------------------------------------------
 ### My Latest Medium Articles
