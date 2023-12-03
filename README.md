@@ -25,7 +25,7 @@ _(click the button!)_
 * <a href="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16" target="_blank">
   <img src="https://www.theiet.org/media/2563/untitled-7.jpg" alt="Deep Learning Conference Papers" width="300" height="100">
 </a> <br>
-<sub><sup>About Deep Learning Conference Papers</sup></sub>
+<sub><sup style="border: 2px solid blue; padding: 5px; display: inline-block;">About Deep Learning Conference Papers</sup></sub>
 
 
 * [The Data Structures Survival Kit](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit) 😅
