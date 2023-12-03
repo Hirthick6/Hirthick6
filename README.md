@@ -27,7 +27,8 @@ _(click the button!)_
 </a> <br> ➤ ➤ ➤  Link="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16"
 
 ### I'm working on Right Now
-Crop Prediction Model : The development of a machine learning model utilizing advanced regression and supervised algorithms like Random Forest to accurately forecast crop yields. The model, incorporating historical agricultural data and time series analysis, provides valuable insights for stakeholders and policymakers in the agribusiness sector.
+#### Crop Prediction Model : 
+The development of a machine learning model utilizing advanced regression and supervised algorithms like Random Forest to accurately forecast crop yields. The model, incorporating historical agricultural data and time series analysis, provides valuable insights for stakeholders and policymakers in the agribusiness sector.
 
 Real-Time Startup Success Predictor : Designed and implemented a real-time data classification system for a startup, employing Support Vector Machines and Neural Networks. The innovative approach, incorporating diverse features and continuous updates, enhanced decision-making processes and attracted investor attention.
 
