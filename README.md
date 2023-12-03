@@ -39,7 +39,7 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 -------------------------------------------------------------------------------------------------------
 ### My Github Stats
-<img src="https://github-profile-trophy.vercel.app/?username=hirthick6&row=1&column=3&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020,Commit,Star" height="120">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hirthick6&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="languages" height="150">
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&layout=compact&theme=algolia&hide_border=true&langs_count=12" alt="languages" height="150"></p>
 
