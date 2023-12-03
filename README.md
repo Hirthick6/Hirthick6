@@ -21,8 +21,9 @@ _(click the button!)_
 [![GitHub](https://img.shields.io/badge/-GitHub-blue?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hirthick6) [![Email](https://img.shields.io/badge/-Email-blue?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:hirthicksofficial@gmail.com)
 
 -------------------------------------------------------------------------------------------------------
-### Stuff I'm working on Right Now
-* [NetsGoPlaces](https://github.com/DeepthiTabithaBennet/NetsGoPlaces) - a website for all pre-placement services
+### I'm Completed on Right Now
+* [![Deep Learning Conference Papers](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5W8tIFIlorsvRqNKPzKEBEOXqbhgzwUzRZ6W-vSZvQ&s)](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
+About Deep Learning Conference Papers
 * [The Data Structures Survival Kit](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit) 😅
 
 -------------------------------------------------------------------------------------------------------
