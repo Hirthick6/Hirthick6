@@ -44,7 +44,9 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick&layout=compact&theme=algolia&hide_border=true&langs_count=10" alt="languages" height="150">
 
+<p> <img src="https://github-readme-stats.vercel.app/api?username=DeepthiTabithaBennet&show_icons=true&theme=algolia&include_all_commits=true&hide_border=true" alt="my github stats" width="400"/>&nbsp; </p>
 
+[![Hirthick's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DeepthiTabithaBennet&theme=react-dark&hide_border=true&line=00AEFF&color=FFFFFF&point=2DDE98&bg_color=050F2C)](https://github.com/DeepthiTabithaBennet/github-readme-activity-graph)
 
 -------------------------------------------------------------------------------------------------------
 ### My Latest Medium Articles
