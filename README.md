@@ -9,8 +9,11 @@
 
 🌱 I'm currently learning:
   - Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)
+    
 📬 How to reach me: [hirthicksoffical@gmail.com](mailto:hirthicksoffcial@gmail.com)
-📝 [Resume](https://drive.google.com/drive/my-drive).
+
+📝 [Resume](https://drive.google.com/drive/my-drive)
+
 💪 This is where I write, code and solve problems.
 
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
