@@ -44,8 +44,6 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hirthick6&show_icons=true&locale=en&layout=compact" alt="hirthick6" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirthick6&show_icons=true&locale=en" alt="hirthick6" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirthick6&" alt="hirthick6" /></p>
 -----
 - 👨‍💻 All of my projects are available at [https://github.com/Hirthick6](https://github.com/Hirthick6)
