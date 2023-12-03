@@ -44,22 +44,11 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&layout=compact&theme=algolia&hide_border=true&langs_count=12" alt="languages" height="150"></p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Hirthick6](https://github.com/Hirthick6)
-
--------------------------------------------------------------------------------------------------------
-### My Latest Medium Articles
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/0" alt="Recent Article 0"> </a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/1" alt="Recent Article 1"> </a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/2" alt="Recent Article 2"> </a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@DeepthiTabithaBennet/3" alt="Recent Article 3"> </a>
+- 👨‍💻All of my projects are available at [https://github.com/Hirthick6](https://github.com/Hirthick6)
 
 -------------------------------------------------------------------------------------------------------
 **Check out 
-✨[`@PreethiSamanthaBennet`](https://github.com/PreethiSamanthaBennet)✨**
+✨[`@Hirthick`](https://github.com/Hirthick6)✨**
 
 -------------------------------------------------------------------------------------------------------
 
