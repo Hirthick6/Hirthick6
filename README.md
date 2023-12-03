@@ -3,10 +3,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hirthick6" alt="hirthick6" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://twitter.com/hirthick_siva" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/hirthick_siva?logo=twitter&style=for-the-badge" alt="https://twitter.com/hirthick_siva" /></a> </p>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Hirthick6](https://github.com/Hirthick6)
+
+- 📫 How to reach me **hirthicksofficial@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/https://twitter.com/hirthick_siva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/hirthick_siva" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -17,6 +22,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hirthick6&show_icons=true&locale=en" alt="hirthick6" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hirthick6&" alt="hirthick6" /></p>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DeepthiTabithaBennet&style=flat-square" alt="https://github.com/DeepthiTabithaBennet" width="150" /> </p>
