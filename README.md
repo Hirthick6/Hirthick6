@@ -7,7 +7,7 @@
 * Self-Taught Coder
 * Demanding Perfectionist
 
-🌱 I'm currently learning:- Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)
+🌱 I'm currently learning:- Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
 📬 How to reach me: [hirthicksoffical@gmail.com](mailto:hirthicksoffcial@gmail.com)
 📝 [Resume](https://drive.google.com/drive/my-drive)
 💪 This is where I write, code and solve problems.
