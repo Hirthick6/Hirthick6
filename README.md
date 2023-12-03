@@ -23,9 +23,10 @@ _(click the button!)_
 -------------------------------------------------------------------------------------------------------
 ### I'm Completed on Right Now
 * <a href="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16" target="_blank">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5W8tIFIlorsvRqNKPzKEBEOXqbhgzwUzRZ6W-vSZvQ&s" alt="Deep Learning Conference Papers" width="50" height="50">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO5W8tIFIlorsvRqNKPzKEBEOXqbhgzwUzRZ6W-vSZvQ&s" alt="Deep Learning Conference Papers" width="100" height="100">
 </a> <br>
 <sub><sup>About Deep Learning Conference Papers</sup></sub>
+
 
 * [The Data Structures Survival Kit](https://github.com/DeepthiTabithaBennet/TheDataStructuresSurvivalKit) 😅
 
