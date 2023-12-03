@@ -23,7 +23,7 @@ _(click the button!)_
 -------------------------------------------------------------------------------------------------------
 ### I'm Completed on Right Now
 * <a href="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16" target="_blank">
-  <img src="https://www.theiet.org/media/2563/untitled-7.jpg" alt="Deep Learning Conference Papers" width="100" height="100">
+  <img src="https://www.theiet.org/media/2563/untitled-7.jpg" alt="Deep Learning Conference Papers" width="100" height="300">
 </a> <br>
 <sub><sup>About Deep Learning Conference Papers</sup></sub>
 
