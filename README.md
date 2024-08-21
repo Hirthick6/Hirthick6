@@ -35,9 +35,6 @@ _(click the button!)_
 </a>  
 ➤ [Link to Paper](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
 2. Deep Learning Advancements in Malaria Diagnosis: A PyTorch-Based Ensemble Approach for Image Classification
-<a href="https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg" alt="Deep Learning Conference Papers" width="300" height="100">
-</a>  
 ➤ [Link to Paper](https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607)
 ### I'm working on Right Now
 #### Crop Prediction Model: 
