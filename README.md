@@ -30,12 +30,8 @@ _(click the button!)_
 ### I'm Completed on Right Now
 #### Conference Paper
 * <a href="https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg" target="_blank">
-  <img src="https://www.theiet.org/media/2563/untitled-7.jpg" alt="Deep Learning Conference Papers" width="300" height="100">
-</a> <br> ➤ ➤ ➤  Link="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16"
-
-<a href="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg" alt="Deep Learning Conference Papers" width="300" height="100">
-</a>
+</a> <br> ➤ ➤ ➤  Link="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16"
 
 
 ### I'm working on Right Now
