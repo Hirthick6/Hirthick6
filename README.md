@@ -31,8 +31,10 @@ _(click the button!)_
 #### Conference Paper
 * <a href="https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg" target="_blank">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg" alt="Deep Learning Conference Papers" width="300" height="100">
-</a> <br> ➤ ➤ ➤  Link="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16"
-
+</a> 
+### Brain tumor analyses adopting a deep learning classifier based on glioma, meningioma, and pituitary parameters
+<br> ➤ ➤ ➤  Link="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16"
+### Deep Learning Advancements in Malaria Diagnosis: A PyTorch-Based Ensemble Approach for Image Classification
      <br> ➤ ➤ ➤  Link="https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607"
 ### I'm working on Right Now
 #### Crop Prediction Model: 
