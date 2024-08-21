@@ -33,7 +33,7 @@ _(click the button!)_
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg" alt="Deep Learning Conference Papers" width="300" height="100">
 </a> <br> ➤ ➤ ➤  Link="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16"
 
-     <br> ➤ ➤ ➤  Link=https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607"
+     <br> ➤ ➤ ➤  Link="https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607"
 ### I'm working on Right Now
 #### Crop Prediction Model: 
 The development of a machine learning model utilizing advanced regression and supervised algorithms like Random Forest to accurately forecast crop yields. The model, incorporating historical agricultural data and time series analysis, provides valuable insights for stakeholders and policymakers in the agribusiness sector.
