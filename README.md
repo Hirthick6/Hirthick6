@@ -29,13 +29,12 @@ _(click the button!)_
 -------------------------------------------------------------------------------------------------------
 ### I'm Completed on Right Now
 #### Completed Conference Papers
-1. Brain Tumor Analysis Adopting a Deep Learning Classifier Based on Glioma, Meningioma, and Pituitary Parameters
-<a href="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg" alt="Deep Learning Conference Papers" width="300" height="100">
-</a>  
-➤ [Link to Paper](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
-2. Deep Learning Advancements in Malaria Diagnosis: A PyTorch-Based Ensemble Approach for Image Classification
-➤ [Link to Paper](https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607)
+1. Brain Tumor Analysis Adopting a Deep Learning Classifier Based on Glioma, Meningioma, and Pituitary Parameters  
+   [![Deep Learning Conference Papers](https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg)](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
+
+2. Deep Learning Advancements in Malaria Diagnosis: A PyTorch-Based Ensemble Approach for Image Classification  
+   ➤ [Link to Paper](https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607)
+
 ### I'm working on Right Now
 #### Crop Prediction Model: 
 The development of a machine learning model utilizing advanced regression and supervised algorithms like Random Forest to accurately forecast crop yields. The model, incorporating historical agricultural data and time series analysis, provides valuable insights for stakeholders and policymakers in the agribusiness sector.
