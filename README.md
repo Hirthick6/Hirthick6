@@ -29,7 +29,7 @@ _(click the button!)_
 -------------------------------------------------------------------------------------------------------
 ### I'm Completed on Right Now
 #### Conference Paper
-* <a href="https://www.google.com/search?q=igi+global+logo&sca_esv=2522a36a80fb9dc4&sca_upv=1&udm=2&biw=1536&bih=695&sxsrf=ADLYWIJ130LV21MOJDPccXhVbAsofz9C3w%3A1724261400857&ei=GCTGZs6HNPHo4-EP-I7U-As&oq=igi+global+&gs_lp=Egxnd3Mtd2l6LXNlcnAiC2lnaSBnbG9iYWwgKgIIADIFEAAYgAQyBBAAGB4yBxAAGIAEGBgyBxAAGIAEGBgyBxAAGIAEGBgyBxAAGIAEGBgyBxAAGIAEGBgyBxAAGIAEGBgyBxAAGIAEGBgyBxAAGIAEGBhIwg1Qflh-cAF4AJABAJgBeaABeaoBAzAuMbgBA8gBAPgBAZgCAqACgAHCAgoQABiABBhDGIoFmAMAiAYBkgcDMS4xoAekBQ&sclient=gws-wiz-serp#vhid=UmKkB0d0oqASsM&vssid=mosaic" target="_blank">
+* <a href="https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg" target="_blank">
   <img src="https://www.theiet.org/media/2563/untitled-7.jpg" alt="Deep Learning Conference Papers" width="300" height="100">
 </a> <br> ➤ ➤ ➤  Link="https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16"
 
