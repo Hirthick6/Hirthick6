@@ -50,7 +50,7 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 -------------------------------------------------------------------------------------------------------
 ### My Github Stats
-![](https://github-profile-trophy.vercel.app/?username=Hrithik2212&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Hirthick6&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <img src="https://github-profile-trophy.vercel.app/?username=Hirthick&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020,Commit,Star" height="120">
 
