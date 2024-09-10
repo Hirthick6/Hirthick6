@@ -57,9 +57,7 @@ Researched and developed a robust machine learning model using accelerometer dat
 
 # 📊 GitHub Stats:
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hirthick6&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<img align='right' src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif" width="270"> 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Hrithik2212&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![](https://github-readme-stats.vercel.app/api?username=Hrithik2212&theme=radical&hide_border=false&include_all_commits=false&count_private=false&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hrithik2212&theme=radical&hide_border=false)
@@ -77,8 +75,6 @@ Researched and developed a robust machine learning model using accelerometer dat
 -------------------------------------------------------------------------------------------------------
 
 <!--
-**DeepthiTabithaBennet/DeepthiTabithaBennet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
