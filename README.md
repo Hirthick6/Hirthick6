@@ -13,9 +13,14 @@
 💪 This is where I write, code and solve problems.<br><br>
  As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
  things that change the world.
+<div style="text-align: center; margin-bottom: 20px;">
+  <h3 style="margin: 0; padding-bottom: 10px;">Aspiring Data Scientist, Machine Learning Engineer from India, studying at Thiagarajar College of Engineering (TCE)</h3>
+</div>
 
-  <h3>Aspiring Data Scientist, Machine Learning Engineer from India, studying at Thiagarajar College of Engineering (TCE)</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hirthick6&theme=2077" style="width: 50%; height:50;" alt="Monthly Contribution Graph">
+<div style="text-align: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hirthick6&theme=2077" style="width: 80%; height: auto; max-width: 600px;" alt="Monthly Contribution Graph">
+</div>
+
 
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
