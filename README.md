@@ -53,7 +53,7 @@ Researched and developed a robust machine learning model using accelerometer dat
 ![](https://github-profile-trophy.vercel.app/?username=Hirthick6&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <img src="https://github-profile-trophy.vercel.app/?username=Hirthick&row=1&column=1&theme=darkhub&no-bg=true&no-frame=true&title=Joined2020,Commit,Star" height="120">
 
-![](https://github-profile-trophy.vercel.app/?username=Hirthick&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
+![](https://github-profile-trophy.vercel.app/?username=Hirthick6&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=MultiLanguage,Repositories,Stars,Experience,Followers)
 
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&layout=compact&theme=algolia&hide_border=true&langs_count=12" alt="languages" height="150"></p>
