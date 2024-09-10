@@ -15,7 +15,7 @@
  things that change the world.
 
   <h3>Aspiring Data Scientist, Machine Learning Engineer from India, studying at Thiagarajar College of Engineering (TCE)</h3>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hirthick6&theme=2077" style="width: 80%; height: auto;" alt="Monthly Contribution Graph">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hirthick6&theme=2077" style="width: 50%; height: auto;" alt="Monthly Contribution Graph">
 
 -------------------------------------------------------------------------------------------------------
 ### My Skills 
