@@ -57,7 +57,9 @@ Researched and developed a robust machine learning model using accelerometer dat
 ## GitHub Streak Stats
 ![Longest Streak](https://img.shields.io/badge/Longest%20Streak-100-red?style=for-the-badge)
 
+## GitHub Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Hirthick6&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hirthick6&theme=radical&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hirthick6&hide=jupyter%20notebook&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
