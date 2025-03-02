@@ -37,15 +37,14 @@ _(click the button!)_
 2. **Deep Learning Advancements in Malaria Diagnosis: A PyTorch-Based Ensemble Approach for Image Classification**  
    ➤ [Link to Paper](https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607)
 
+3. **Real-Time Startup Success Predictor Using Support Vector Machines and Neural Networks**
+   ➤ [Link to Paper](https://ieeexplore.ieee.org/document/10863014)
 
 ### I'm working on Right Now
-#### Crop Prediction Model: 
+#### Crop Prediction Model:(JOURNAL) 
 The development of a machine learning model utilizing advanced regression and supervised algorithms like Random Forest to accurately forecast crop yields. The model, incorporating historical agricultural data and time series analysis, provides valuable insights for stakeholders and policymakers in the agribusiness sector.
 
-#### Real-Time Startup Success Predictor: 
-Designed and implemented a real-time data classification system for a startup, employing Support Vector Machines and Neural Networks. The innovative approach, incorporating diverse features and continuous updates, enhanced decision-making processes and attracted investor attention.
-
-#### Accelerometer-Based Human Activity Prediction: 
+#### Accelerometer-Based Human Activity Prediction:(JOURNAL) 
 Researched and developed a robust machine learning model using accelerometer data and deep learning techniques. Achieved high accuracy in classifying human activities with a fine-tuned architecture, paving the way for applications in health monitoring, fitness tracking, and assistive technologies.
 
 -------------------------------------------------------------------------------------------------------
