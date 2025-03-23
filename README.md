@@ -32,23 +32,40 @@ _(click the button!)_
 [![Deep Learning Conference Papers](https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg)](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
 
 ## 🏆 Publications
-
 ### 📝 Conference Participation | 📖 Journal Publications | 📚 Book Chapter Publication
-
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/inco.png?raw=true" alt="Conference Participation" width="300"/></td>
-    <td align="center"><img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/jpaper.png?raw=true" alt="Journal Paper" width="300"/></td>
-    <td align="center"><img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/bookc.png?raw=true" alt="Book Chapter" width="300"/></td>
+    <td align="center">
+      <a href="https://link-to-your-conference-publication.com">
+        <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/inco.png?raw=true" alt="Conference Participation" width="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://link-to-your-journal-paper.com">
+        <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/jpaper.png?raw=true" alt="Journal Paper" width="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://link-to-your-book-chapter.com">
+        <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/bookc.png?raw=true" alt="Book Chapter" width="300"/>
+      </a>
+    </td>
   </tr>
 </table>
 
 ### 🏅 IGI Global Publication | 🎖 IET Journal Publication
-
 <table>
   <tr>
-    <td align="center"><img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/igi.png?raw=true" alt="IGI Global Publication" width="300"/></td>
-    <td align="center"><img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/iet.jpg?raw=true" alt="IET Journal Publication" width="300"/></td>
+    <td align="center">
+      <a href="https://link-to-your-igi-publication.com">
+        <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/igi.png?raw=true" alt="IGI Global Publication" width="300"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://link-to-your-iet-publication.com">
+        <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/iet.jpg?raw=true" alt="IET Journal Publication" width="300"/>
+      </a>
+    </td>
   </tr>
 </table>
 
