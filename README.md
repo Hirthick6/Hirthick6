@@ -33,10 +33,7 @@ _(click the button!)_
 
 ## 🏆 Publications
 
-📜 Conference Participation | 📝 Journal Publications | 📚 Book Chapter Publication
-<p align="center"> <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/inco.png?raw=true" alt="Conference Certificate" width="200"/> <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/jpaper.png?raw=true" alt="Journal Paper" width="200"/> <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/bookc.png?raw=true" alt="Book Chapter" width="200"/> </p>
-🏅 IGI Global Publication | 🎖 IET Journal Publication
-<p align="center"> <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/igi.png?raw=true" alt="IGI Global" width="200"/> <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/iet.jpg?raw=true" alt="IET Journal" width="200"/> </p>
+<p align="center"> <b>📝 Conference Participation | 📖 Journal Publications | 📚 Book Chapter Publication</b> </p> <p align="center"> <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/inco.png?raw=true" alt="Conference Participation" width="250" style="margin: 10px;"/> <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/jpaper.png?raw=true" alt="Journal Paper" width="250" style="margin: 10px;"/> <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/bookc.png?raw=true" alt="Book Chapter" width="250" style="margin: 10px;"/> </p> <p align="center"> <b>🏅 IGI Global Publication | 🎖 IET Journal Publication</b> </p> <p align="center"> <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/igi.png?raw=true" alt="IGI Global Publication" width="250" style="margin: 10px;"/> <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/iet.jpg?raw=true" alt="IET Journal Publication" width="250" style="margin: 10px;"/> </p>
 
 
 1. **Brain Tumor Analysis Adopting a Deep Learning Classifier Based on Glioma, Meningioma, and Pituitary Parameters**  
