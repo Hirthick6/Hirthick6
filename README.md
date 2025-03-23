@@ -31,6 +31,25 @@ _(click the button!)_
 #### Completed Conference Papers
 [![Deep Learning Conference Papers](https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg)](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
 
+## 🏆 Publications
+
+### 📜 Conference Participation
+![Conference Certificate](https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/inco.png)
+
+### 📝 Journal Publications
+![Journal Paper](https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/jpaper.png)
+
+### 📚 Book Chapter Publication
+![Book Chapter](https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/bookc.png)
+
+### 🏅 IGI Global Publication
+![IGI Global](https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/igi.png
+)
+
+### 🎖 IET Journal Publication
+![IET](https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/iet.jpg)
+
+
 1. **Brain Tumor Analysis Adopting a Deep Learning Classifier Based on Glioma, Meningioma, and Pituitary Parameters**  
    ➤ [Link to Paper](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
 
