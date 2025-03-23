@@ -31,20 +31,22 @@ _(click the button!)_
 #### Completed Conference Papers
 [![Deep Learning Conference Papers](https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg)](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
 
-## 🏆 Publications
+<h2>🏆 Publications</h2>
 
-## 🏆 Publications
+<p>📝 <b>Conference Participation</b> | 📖 <b>Journal Publications</b> | 📚 <b>Book Chapter Publication</b></p>
 
-📝 **Conference Participation** | 📖 **Journal Publications** | 📚 **Book Chapter Publication**
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/inco.png?raw=true" alt="Conference Participation" width="250">
+  <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/jpaper.png?raw=true" alt="Journal Paper" width="250">
+  <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/bookc.png?raw=true" alt="Book Chapter" width="250">
+</div>
 
-<img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/inco.png?raw=true" alt="Conference Participation" width="250" style="margin-right: 10px;"/>
-<img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/jpaper.png?raw=true" alt="Journal Paper" width="250" style="margin-right: 10px;"/>
-<img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/bookc.png?raw=true" alt="Book Chapter" width="250" style="margin-right: 10px;"/>
+<p>🏅 <b>IGI Global Publication</b> | 🎖 <b>IET Journal Publication</b></p>
 
-🏅 **IGI Global Publication** | 🎖 **IET Journal Publication**
-
-<img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/igi.png?raw=true" alt="IGI Global Publication" width="250" style="margin-right: 10px;"/>
-<img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/iet.jpg?raw=true" alt="IET Journal Publication" width="250" style="margin-right: 10px;"/>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/igi.png?raw=true" alt="IGI Global Publication" width="250">
+  <img src="https://github.com/Hirthick6/IPL-score-Prediction-/blob/main/png/iet.jpg?raw=true" alt="IET Journal Publication" width="250">
+</div>
 
 
 1. **Brain Tumor Analysis Adopting a Deep Learning Classifier Based on Glioma, Meningioma, and Pituitary Parameters**  
