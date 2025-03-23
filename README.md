@@ -28,9 +28,6 @@ _(click the button!)_
 
 -------------------------------------------------------------------------------------------------------
 ### I'm Completed on Right Now
-#### Completed Conference Papers
-[![Deep Learning Conference Papers](https://upload.wikimedia.org/wikipedia/commons/f/ff/IGI_Global.jpg)](https://digital-library.theiet.org/content/books/10.1049/pbhe059e_ch16)
-
 ## 🏆 Publications
 ### 📝 Conference Participation | 📖 Journal Publications | 📚 Book Chapter Publication
 <table>
