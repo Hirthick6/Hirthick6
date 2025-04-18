@@ -1,10 +1,21 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Resume</title>
-  </head>
-  <body style="margin:0">
-    <embed src="resume.pdf" type="application/pdf" width="100%" height="100vh">
-  </body>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Resume</title>
+  <style>
+    /* ensure html/body fill the viewport */
+    html, body { margin:0; height:100%; }
+    .pdf-frame { width:100%; height:100%; border:none; }
+  </style>
+</head>
+<body>
+  <iframe
+    class="pdf-frame"
+    src="resume.pdf"
+  >
+    <!-- fallback for browsers that don’t support iframes -->
+    <p>Your browser doesn’t support embedded PDFs. <a href="resume.pdf">Download it here.</a></p>
+  </iframe>
+</body>
 </html>
