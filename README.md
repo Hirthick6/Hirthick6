@@ -1,6 +1,11 @@
 # Welcome to [Hirthick's](https://github.com/Hirthick6/) profile! <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-### I'm a...   <img src="https://hirthicks-portfolio.netlify.app/" height=15% width=40% align="right">
+<h3>I'm a...</h3>
+<video width="40%" height="auto" autoplay muted loop controls align="right">
+  <source src="images/portfolio%20hirthick.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
 * Future Data Scientist 
 * Deep Learning in Medical Image Processing and Analysis Paper Author
