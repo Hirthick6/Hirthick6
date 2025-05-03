@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b7be35c4-f5e2-4dc9-a4d4-dc0e1086fa9f)# Welcome to [Hirthick's](https://github.com/Hirthick6/) profile! <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Hirthick's](https://github.com/Hirthick6/) profile! <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <h3>I'm a...</h3>
 <img src="https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/images/myportfolio.gif" height=15% width=40% align="right">
