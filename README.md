@@ -1,20 +1,54 @@
-# Welcome to [Hirthick's](https://github.com/Hirthick6/) profile! <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+# Welcome to [Hirthick S's GitHub](https://github.com/Hirthick6) <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<h3>I'm a...</h3>
-<img src="https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/images/myportfolio.gif" height=15% width=40% align="right">
+<img src="https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/images/myportfolio.gif" align="right" width="40%" height="15%">
+
+## 👨‍💻 About Me
+
+I am **Hirthick S**, a dedicated and detail-oriented **Data Science Scholar** with hands-on experience in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**. I specialize in building intelligent systems that solve real-world problems, with a strong focus on healthcare and social media analytics.
+
+### 🎓 Education & Research
+- 📘 Published Author: *"Deep Learning Advancements in Malaria Diagnosis – A PyTorch-Based Ensemble Approach"*
+- 🎓 Completed internships at **IIT Kanpur**, **IIIT Allahabad**, and **Gateway Software Solutions**
+- 🧪 Academic background in Data Science, Python, ML, and AI
+
+---
+
+## 💼 Career Objectives
+
+I'm actively seeking **internship or full-time opportunities** in:
+- Data Science
+- Machine Learning / Deep Learning
+- AI Research
+- NLP and Computer Vision
+
+I bring strong analytical thinking, coding skills, and a passion for deploying scalable AI solutions in real-world applications.
+
+---
+
+## 🧠 Technical Proficiencies
+- **Languages**: Python, SQL, HTML/CSS
+- **Libraries/Tools**: Pandas, NumPy, Scikit-learn, PyTorch, TensorFlow, Matplotlib, NLTK, OpenCV
+- **Frameworks**: Flask, Streamlit
+- **Data Handling**: MongoDB, CSV/JSON/XML parsing
+- **Platforms**: GitHub, Jupyter, VS Code, Google Colab
+
+---
+
+## 📈 Current Focus
+- Competitive coding on [LeetCode](https://leetcode.com/hirthicksofficial)
+- Advanced projects in deep learning and NLP
+- Deployment using Flask and Streamlit
+
+---
+
+## 📫 Connect with Me
+- 📧 Email: [hirthicksoffical@gmail.com](mailto:hirthicksoffical@gmail.com)
+- 📄 [View My Resume](https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/Hirthick%20S%20Resume.pdf)
+- 🔗 [Portfolio & Projects](https://github.com/Hirthick6)
+
+> “Driven by data, powered by purpose.”
 
 
-* Future Data Scientist 
-* Deep Learning in Medical Image Processing and Analysis Paper Author
-* Self-Taught Coder
-* Demanding Perfectionist
-
-🌱 I'm currently learning: Data Structures and Algorithms on [LeetCode](https://leetcode.com/hirthicksofficial)<br>
-📬 How to reach me: [hirthicksoffical@gmail.com](mailto:hirthicksoffcial@gmail.com)<br>
-📝 [Resume](https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/Hirthick%20S%20Resume.pdf)<br>
-💪 This is where I write, code and solve problems.<br><br>
- As a Data Science Student, I enjoy using my obsessive attention to detail, my unequivocal love for making 
- things that change the world.
 
 
 -------------------------------------------------------------------------------------------------------
