@@ -23,7 +23,6 @@ I'm actively seeking **internship or full-time opportunities** in:
 
 I bring strong analytical thinking, coding skills, and a passion for deploying scalable AI solutions in real-world applications.
 
----
 
 ## 🧠 Technical Proficiencies
 - **Languages**: Python, SQL, HTML/CSS
