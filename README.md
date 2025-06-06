@@ -1,9 +1,8 @@
 # Welcome to [Hirthick S's GitHub](https://github.com/Hirthick6) <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<div style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; pointer-events: none; z-index: -1; overflow: hidden;">
-  <img src="https://raw.githubusercontent.com/Hirthick6/Hirthick6/main/butter.gif" alt="Welcome Animation" style="width: 100%; height: 100%; object-fit: cover; opacity: 0.3;">
+<div align="right" style="position: absolute; right: 20px; top: 50px; z-index: 1;">
+  <img src="https://raw.githubusercontent.com/Hirthick6/Hirthick6/main/butter.gif" alt="Butterfly Animation" width="400" style="background: transparent; mix-blend-mode: multiply;">
 </div>
-
 
 ### 👨‍💻 About Me
 I am **Hirthick S**, a dedicated and detail-oriented **Data Science Scholar** with hands-on experience in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**. I specialize in building intelligent systems that solve real-world problems, with a strong focus on healthcare and social media analytics.
