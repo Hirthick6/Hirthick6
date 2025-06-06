@@ -1,12 +1,11 @@
 # Welcome to [Hirthick S's GitHub](https://github.com/Hirthick6) <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<div align="right" style="position: absolute; right: 20px; top: 50px; z-index: 1;">
-  <img src="https://raw.githubusercontent.com/Hirthick6/Hirthick6/main/butter.gif" alt="Butterfly Animation" width="400" style="background: transparent; mix-blend-mode: multiply;">
-</div>
 
 ### 👨‍💻 About Me
 I am **Hirthick S**, a dedicated and detail-oriented **Data Science Scholar** with hands-on experience in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**. I specialize in building intelligent systems that solve real-world problems, with a strong focus on healthcare and social media analytics.
-
+<div align="right" style="position: absolute; right: 20px; top: 50px; z-index: 1;">
+  <img src="https://raw.githubusercontent.com/Hirthick6/Hirthick6/main/butter.gif" alt="Butterfly Animation" width="400" style="background: transparent; mix-blend-mode: multiply;">
+</div>
 ### 🎓 Education & Research
 - 📘 Published Author: *"Deep Learning Advancements in Malaria Diagnosis – A PyTorch-Based Ensemble Approach"*
 - 🎓 Completed internships at **IIT Kanpur**, **IIIT Allahabad**, and **Gateway Software Solutions**
