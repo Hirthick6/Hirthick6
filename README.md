@@ -1,7 +1,6 @@
 # Welcome to [Hirthick S's GitHub](https://github.com/Hirthick6) <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-
+<img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/airpla-unscreen.gif" align="right" width="30%" height="15%">airpla-unscreen.gif
 <img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/com-video-to-gif-converter-unscreen.gif" align="right" width="30%" height="15%">
-<img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/final.gif" align="right" width="25%" height="25%">
 ### 👨‍💻 About Me
 
 I am **Hirthick S**, a dedicated and detail-oriented **Data Science Scholar** with hands-on experience in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**. I specialize in building intelligent systems that solve real-world problems, with a strong focus on healthcare and social media analytics.
