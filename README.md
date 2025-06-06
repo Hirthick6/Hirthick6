@@ -1,13 +1,12 @@
 # Welcome to [Hirthick S's GitHub](https://github.com/Hirthick6) <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<div align="right">
-  <span style="display: inline-block;">
-    <img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/butter.gif" width="50">
-  </span>
-  <span style="display: inline-block; vertical-align: middle; font-size: 24px; font-weight: bold; padding-left: 5px;">
-    AI
-  </span>
+<!-- AI Text and Butterfly Image Aligned Side-by-Side -->
+<div align="right" style="display: flex; align-items: center; justify-content: flex-end; gap: 8px;">
+  <span style="font-size: 26px; font-weight: bold; color: white;">AI</span>
+  <img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/butter.gif" width="50" height="50" alt="Butterfly GIF">
 </div>
+
+
 
 ### 👨‍💻 About Me
 
