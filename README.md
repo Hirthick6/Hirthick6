@@ -5,7 +5,7 @@
 ## 👨‍💻 About Me
 
 I am **Hirthick S**, a dedicated and detail-oriented **Data Science Scholar** with hands-on experience in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**. I specialize in building intelligent systems that solve real-world problems, with a strong focus on healthcare and social media analytics.
-
+<br><br>
 ### 🎓 Education & Research
 - 📘 Published Author: *"Deep Learning Advancements in Malaria Diagnosis – A PyTorch-Based Ensemble Approach"*
 - 🎓 Completed internships at **IIT Kanpur**, **IIIT Allahabad**, and **Gateway Software Solutions**
