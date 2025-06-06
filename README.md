@@ -1,8 +1,7 @@
 # Welcome to [Hirthick S's GitHub](https://github.com/Hirthick6) <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/final.gif" align="right" width="20%" height="15%">
-<div align="center" style="background: transparent;">
-  <img src="https://raw.githubusercontent.com/Hirthick6/Hirthick6/main/butter.gif" alt="Welcome Animation" width="100%" style="background: transparent;">
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hirthick6/Hirthick6/main/butter.gif" alt="Welcome Animation" width="100%" style="opacity: 0.8; mix-blend-mode: screen;">
 </div>
 
 ### 👨‍💻 About Me
