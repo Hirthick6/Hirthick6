@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/final.gif" align="right" width="20%" height="15%">
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 I am **Hirthick S**, a dedicated and detail-oriented **Data Science Scholar** with hands-on experience in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**. I specialize in building intelligent systems that solve real-world problems, with a strong focus on healthcare and social media analytics.
 
 ### 🎓 Education & Research
