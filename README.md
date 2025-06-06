@@ -4,7 +4,7 @@
 ### 👨‍💻 About Me
 I am **Hirthick S**, a dedicated and detail-oriented **Data Science Scholar** with hands-on experience in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**. I specialize in building intelligent systems that solve real-world problems, with a strong focus on healthcare and social media analytics.
 <div align="right" style="position: absolute; right: 20px; top: 50px; z-index: 1;">
-  <img src="https://raw.githubusercontent.com/Hirthick6/Hirthick6/main/butter.gif" alt="Butterfly Animation" width="40" style="background: transparent; mix-blend-mode: multiply;">
+  <img src="https://raw.githubusercontent.com/Hirthick6/Hirthick6/main/butter.gif" alt="Butterfly Animation" width="100" style="background: transparent; mix-blend-mode: multiply;">
 </div>
 ### 🎓 Education & Research
 - 📘 Published Author: *"Deep Learning Advancements in Malaria Diagnosis – A PyTorch-Based Ensemble Approach"*
