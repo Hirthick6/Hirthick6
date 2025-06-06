@@ -1,6 +1,7 @@
 # Welcome to [Hirthick S's GitHub](https://github.com/Hirthick6) <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 <img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/3d-gif-transparent-20-removebg-preview.png" align="right" width="40%" height="15%">
+<img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/clideo_editor_d939627b945a4967be20d06a7f9c021c.gif" align="right" width="40%" height="15%">
 
 ## 👨‍💻 About Me
 
@@ -11,7 +12,6 @@ I am **Hirthick S**, a dedicated and detail-oriented **Data Science Scholar** wi
 - 🎓 Completed internships at **IIT Kanpur**, **IIIT Allahabad**, and **Gateway Software Solutions**
 - 🧪 Academic background in Data Science, Python, ML, and AI
 
----
 
 ## 💼 Career Objectives
 
