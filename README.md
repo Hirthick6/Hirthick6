@@ -1,7 +1,7 @@
 # Welcome to [Hirthick S's GitHub](https://github.com/Hirthick6) <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 <img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/final.gif" align="right" width="20%" height="20%">
 <img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/airpla-unscreen.gif" align="right" width="20%" height="20%">
-
+<a href="https://stardev.io/developers/Hirthick6"><img alt="Check out Hirthick6's profile on stardev.io" src="https://stardev.io/developers/Hirthick6/badge/languages/locality.svg" /></a>
 
 ### 👨‍💻 About Me
 
