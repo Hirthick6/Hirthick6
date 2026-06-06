@@ -160,11 +160,54 @@ I specialize in designing and deploying **end-to-end AI solutions** that bridge 
 
 ## 🎯 Core Focus Areas
 
-```
-Document Intelligence       Multimodal AI Applications    Enterprise RAG Solutions
-Healthcare AI               Industrial Video Analytics     NLP Automation
-AI-Powered Workflows        Intelligent Data Processing
-```
+<div align="center">
+<table>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/52/document.png" width="44"/><br/>
+<b>Document Intelligence</b><br/>
+<sub>OCR · IDP · PDF Parsing</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/52/artificial-intelligence.png" width="44"/><br/>
+<b>Multimodal AI</b><br/>
+<sub>Vision-Language · RAG</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/52/search--v1.png" width="44"/><br/>
+<b>Enterprise RAG</b><br/>
+<sub>Hybrid Search · Re-ranking</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/52/heart-with-pulse.png" width="44"/><br/>
+<b>Healthcare AI</b><br/>
+<sub>Medical Imaging · XAI</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/52/video-call.png" width="44"/><br/>
+<b>Industrial Video Analytics</b><br/>
+<sub>YOLO · Tracking · Cycle Time</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/52/bot.png" width="44"/><br/>
+<b>Agentic AI Pipelines</b><br/>
+<sub>LangGraph · ReAct · Tools</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/52/natural-language-processing.png" width="44"/><br/>
+<b>NLP Automation</b><br/>
+<sub>BERT · Classification · NER</sub>
+</td>
+<td align="center" width="200">
+<img src="https://img.icons8.com/fluency/52/data-configuration.png" width="44"/><br/>
+<b>Intelligent Data Processing</b><br/>
+<sub>Pipelines · ETL · JSON</sub>
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
