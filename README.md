@@ -4,108 +4,158 @@
 
 ### 👨‍💻 About Me
 
-I am **Hirthick S**, an **AI-focused Software Engineer** with 2+ years of hands-on experience in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI**. I specialize in designing and deploying end-to-end scalable intelligent systems for real-world applications — from document intelligence and multimodal RAG pipelines to real-time video analytics and medical AI.
+I am **Hirthick S**, an **AI-focused Software Engineer** with over **2 years of professional experience** in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI**. I design and deploy production-grade, end-to-end intelligent systems that solve complex real-world problems — spanning **document intelligence**, **multimodal RAG pipelines**, **real-time video analytics**, **industrial automation**, and **healthcare AI**. I am passionate about transforming unstructured data into actionable insights and building AI systems that are scalable, interpretable, and operationally impactful.
 
-- 📍 Madurai, Tamil Nadu | 📧 [hirthicksofficial@gmail.com](mailto:hirthicksofficial@gmail.com)
-- 📄 [View My Resume](https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/Hirthick%20S%20Resume.pdf)
-
----
-
-## 💼 Experience
-
-### 🏢 Ventragate Technologies — Software Engineer (AI/ML) *(Jan 2025 – Present)*
-
-**🔹 Intelligent Document Processing System** *(PaddleOCR, LLM, LangChain, RAG, PostgreSQL)*
-- Built an end-to-end document intelligence pipeline automating extraction from unstructured insurance PDFs via manual upload and email ingestion.
-- Developed a **RAG pipeline** using LLMs + LangChain for contextual understanding, generating structured JSON outputs for enterprise systems.
-- Implemented document chunking, embedding, and vector storage for efficient semantic retrieval.
-
-**🔹 Real-Time Object Detection & Cycle Time Analytics** *(YOLOv8, OpenCV)*
-- Built a real-time CV system for manufacturing using **YOLOv8 + multi-object tracking** to assign unique IDs across frames.
-- Designed cycle time analysis by tracking entry/exit timestamps across zones to identify bottlenecks.
-- Integrated real-time alerts and monitoring dashboards for proactive decision-making.
-
-**🔹 Engineering Drawing Measurement Extraction System** *(PaddleOCR, Image Processing)*
-- Developed an intelligent system to extract measurements and geometric info from engineering drawings (PDFs/images).
-- Combined OCR + computer vision (edge/line detection) to calculate angles, lengths, and dimensions into structured tabular outputs.
+📍 Madurai, Tamil Nadu &nbsp;|&nbsp; 📧 [hirthicksofficial@gmail.com](mailto:hirthicksofficial@gmail.com) &nbsp;|&nbsp; 📄 [View My Resume](https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/Hirthick%20S%20Resume.pdf)
 
 ---
 
-### 🏢 Gateway Software Solutions — Machine Learning Engineer *(Dec 2023 – Jan 2025)*
+## 💼 Professional Experience
 
-**🔹 NLP-Based Intelligent Content Moderation System** *(Transformers, NLP, Deep Learning)*
-- Built a transformer-based content moderation system detecting harmful messages, cyberbullying, and abusive content in real time.
-- Implemented sentiment analysis and contextual classification with real-time alerts during typing.
+<table>
+<tr>
+<td width="8" style="background:#4f46e5;border-radius:4px;"></td>
+<td>
 
-**🔹 AI-Based Multi-Stage Automotive Defect Detection System** *(YOLO, OpenCV, Deep Learning)*
-- Developed a CV system to inspect car door handle assemblies across production stages, detecting misalignment, scratches, and missing sub-components.
-- Built a variant-aware pipeline classifying **5 distinct door handle types** with targeted data augmentation.
+### 🏢 Ventragate Technologies &nbsp;·&nbsp; Software Engineer — AI/ML
+`Jan 2025 – Present`
 
-**🔹 Smart Manufacturing Assistant using Multimodal RAG** *(LLM, RAG, LangChain, PaddleOCR)*
-- Built a multimodal AI assistant processing machine manuals, defect images, and production logs via natural language queries.
-- Enabled context-aware troubleshooting, root cause identification, and operational optimization.
+---
 
-**🔹 AI-Driven Medical Diagnosis System** *(CNN, TensorFlow, LoRA)*
-- Multi-disease classification from medical imaging using CNNs and transfer learning.
-- Integrated **Explainable AI** (Grad-CAM, SHAP) for clinical transparency; optimized with **LoRA** for efficiency.
+**📄 Intelligent Document Processing System for Insurance Automation**
+`PaddleOCR · LangChain · RAG · LLMs · PostgreSQL · Python`
 
-**🔹 AI-Powered Smart Agriculture System** *(ML, Deep Learning, Flask)*
-- Built a decision support system for crop recommendation, fertilizer optimization, and plant disease detection with cause + treatment analysis.
-- Deployed as an interactive **Flask web platform** for real-time precision farming insights.
+Architected and deployed a full-scale document intelligence platform to automate structured data extraction from high-volume unstructured insurance documents, supporting both manual PDF uploads and email-based ingestion pipelines. The system leverages **PaddleOCR** with advanced image preprocessing to handle scanned and low-quality documents with high fidelity. A **Retrieval-Augmented Generation (RAG)** pipeline powered by LLMs and LangChain enables contextual document understanding, producing structured JSON outputs that integrate seamlessly with downstream enterprise workflows. The solution incorporates document chunking, embedding generation, and vector storage for efficient semantic retrieval, while **PostgreSQL** ensures secure, scalable storage of extracted data and sensitive user metadata.
 
-**🔹 Startup Success Prediction System** *(ML, Ensemble Models)*
-- Engineered a scalable ensemble pipeline (Random Forest, Gradient Boosting, SVM, KNN, Logistic Regression) with Voting/Stacking strategy.
-- Applied SMOTE, feature engineering, and model interpretability for data-driven investment insights.
+---
+
+**🎯 Real-Time Object Detection, Tracking & Cycle Time Analytics**
+`YOLOv8 · OpenCV · Multi-Object Tracking · Python`
+
+Engineered a real-time computer vision system for dynamic manufacturing environments, capable of detecting and tracking multiple objects simultaneously under challenging conditions such as motion blur, lighting variation, and object overlap. The system uses **YOLOv8** for high-accuracy detection combined with multi-object tracking algorithms to maintain consistent identity across frames. A dedicated **cycle time analysis module** computes processing durations by recording entry and exit timestamps across defined production zones, surfacing workflow bottlenecks and enabling data-driven optimization. Live dashboards and intelligent alerts provide operators with real-time visibility into performance anomalies and delays.
+
+---
+
+**📐 Engineering Drawing Measurement Extraction System**
+`PaddleOCR · Edge Detection · Image Processing · Python`
+
+Developed an intelligent interpretation system for engineering drawings in PDF and image formats, automating the extraction of geometric measurements and structural annotations from technical diagrams. The pipeline combines **OCR-based text extraction** with computer vision techniques — including edge detection and line recognition — to identify and quantify dimensions such as angles, lengths, and component boundaries. Robust preprocessing pipelines handle noisy inputs, distortions, and layout variations across mechanical, architectural, and academic drawing formats, converting unstructured visual data into clean, structured tabular outputs ready for engineering workflows.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<table>
+<tr>
+<td width="8" style="background:#7c3aed;border-radius:4px;"></td>
+<td>
+
+### 🏢 Gateway Software Solutions &nbsp;·&nbsp; Machine Learning Engineer
+`Dec 2023 – Jan 2025`
+
+---
+
+**🛡️ NLP-Based Intelligent Content Moderation System**
+`Transformers · BERT · Sentiment Analysis · Deep Learning · Python`
+
+Built a production-grade content moderation engine using fine-tuned **transformer-based models** to detect harmful, abusive, and cyberbullying content across real-time communication platforms. The system processes text, emojis, abbreviations, and contextual cues simultaneously, combining **sentiment analysis** with multi-class contextual classification trained on diverse, multilingual datasets. A real-time feedback mechanism intercepts inappropriate content during composition and triggers intelligent alerts — preventing harmful communication before it is published, with high accuracy and low false-positive rates.
+
+---
+
+**🚗 AI-Based Multi-Stage Automotive Defect Detection System**
+`YOLOv8 · OpenCV · Data Augmentation · Deep Learning · Python`
+
+Designed a production-line computer vision system to inspect car door handle assemblies across multiple manufacturing stages, detecting defects including misalignment, surface scratches, improper fitting, and missing sub-components in real time. A **variant-aware pipeline** classifies and segregates **5 distinct door handle types**, enabling generalized detection across diverse shapes and designs. A defect-driven **data augmentation framework** applies targeted transformations per handle type — rotation, scaling, lighting variation — to continuously enrich the training dataset, with stage-wise labeling enabling traceable, incremental model retraining.
+
+---
+
+**🏭 Smart Manufacturing Assistant using Multimodal RAG**
+`LLMs · RAG · LangChain · PaddleOCR · Vector Search · Python`
+
+Developed a multimodal AI assistant purpose-built for industrial environments, capable of reasoning over machine manuals (PDFs), defect images, production logs, and structured operational data through natural language queries. The **RAG pipeline** integrates OCR, document embeddings, and LLM reasoning to retrieve and synthesize relevant information from heterogeneous technical sources. The system powers intelligent troubleshooting, maintenance guidance, root cause identification, and operational recommendations — reducing downtime and enabling faster, more informed decision-making on the factory floor.
+
+---
+
+**🧬 AI-Driven Multi-Disease Medical Diagnosis System**
+`CNNs · TensorFlow · Transfer Learning · LoRA · Grad-CAM · SHAP`
+
+Built an intelligent diagnostic platform for multi-disease classification from medical imaging, employing **convolutional neural networks** with transfer learning for high accuracy across multiple disease categories. **Explainable AI** techniques including **Grad-CAM** and **SHAP** provide clinicians with visual and feature-level interpretability, improving trust and transparency in AI-assisted diagnosis. Model efficiency was significantly enhanced using **Low-Rank Adaptation (LoRA)**, reducing computational overhead without compromising predictive performance. A scalable preprocessing and augmentation pipeline ensures reliable inference on real-world medical datasets.
+
+---
+
+**🌾 AI-Powered Smart Agriculture Decision Support System**
+`Random Forest · Deep Learning · Flask · Python`
+
+Developed a comprehensive agricultural AI platform integrating **crop recommendation**, **fertilizer optimization**, and **plant disease detection** from soil, environmental, and image data. Beyond detection, the system provides cause identification, prevention strategies, and treatment recommendations — maximizing practical utility for farmers. Predictive models analyze climatic and soil conditions to assess crop and land suitability, while an interactive **Flask-based web platform** delivers real-time insights. Sustainable farming practices are embedded into system logic to minimize crop loss through early intervention.
+
+---
+
+**📊 Startup Success Prediction System**
+`Ensemble ML · SMOTE · Feature Engineering · Python`
+
+Engineered a robust predictive modeling pipeline using a **five-model ensemble** — Random Forest, Gradient Boosting, Logistic Regression, SVM, and KNN — combined via Voting/Stacking strategies to forecast startup success from multi-dimensional business, financial, and market indicators. Advanced feature engineering, correlation analysis, and **SMOTE-based class imbalance handling** improve generalization and reduce overfitting. Model interpretability techniques surface the key success drivers, enabling data-driven investment decisions and strategic planning with measurable confidence.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🎓 Education
 
-| Degree | Institution | Year | CGPA |
-|---|---|---|---|
-| M.Sc. (Integrated) — Data Science | Thiagarajar College of Engineering, Anna University | Sep 2024 – Mar 2026 | 8.60 / 10.0 |
-| B.Sc. (Integrated) — Data Science | Thiagarajar College of Engineering, Anna University | Aug 2021 – May 2024 | 8.40 / 10.0 |
+| Degree | Institution | Period | CGPA |
+|:---|:---|:---|:---:|
+| **M.Sc. (Integrated) — Data Science** | Thiagarajar College of Engineering, Anna University | Sep 2024 – Mar 2026 | **8.60 / 10.0** |
+| **B.Sc. (Integrated) — Data Science** | Thiagarajar College of Engineering, Anna University | Aug 2021 – May 2024 | **8.40 / 10.0** |
 
-🎓 Internships at **IIT Kanpur**, **IIIT Allahabad**, and **Gateway Software Solutions**
+🎓 Research Internships at **IIT Kanpur** · **IIIT Allahabad** · **Gateway Software Solutions**
 
 ---
 
 ## 🧠 Technical Proficiencies
 
-| Category | Skills |
-|---|---|
-| **Languages** | Python, SQL, C, C++, Java, PHP, HTML/CSS |
-| **ML / DL** | Scikit-learn, PyTorch, TensorFlow, CNNs, Transformers, LoRA, Grad-CAM, SHAP |
-| **CV & OCR** | OpenCV, YOLOv8, PaddleOCR |
-| **Gen AI / NLP** | LangChain, RAG, LLMs, NLTK, Embeddings, Vector Stores |
-| **Frameworks** | Flask, Streamlit |
-| **Data** | Pandas, NumPy, Matplotlib, MongoDB, PostgreSQL |
-| **Platforms** | GitHub, Jupyter, VS Code, Google Colab |
+| Domain | Technologies & Tools |
+|:---|:---|
+| **Languages** | Python · SQL · C · C++ · Java · PHP · HTML/CSS |
+| **Machine Learning** | Scikit-learn · Ensemble Methods · SMOTE · Feature Engineering · XGBoost · LightGBM |
+| **Deep Learning** | PyTorch · TensorFlow · CNNs · RNNs · Transformers · Transfer Learning · LoRA · Fine-Tuning |
+| **Generative AI** | LLMs · LangChain · RAG · Prompt Engineering · Vector Databases · Embeddings · FAISS · ChromaDB |
+| **Computer Vision** | OpenCV · YOLOv8 · PaddleOCR · Edge Detection · Object Tracking · Image Segmentation |
+| **Explainability & Ethics** | Grad-CAM · SHAP · LIME · Explainable AI (XAI) |
+| **Multimodal AI** | Multimodal RAG · Document Intelligence · OCR Pipelines · Vision-Language Models |
+| **Agentic AI** | AI Agents · Tool Use · ReAct Framework · Autonomous Pipelines |
+| **NLP** | NLTK · Sentiment Analysis · Text Classification · Named Entity Recognition · Tokenization |
+| **MLOps & Deployment** | Flask · Streamlit · Docker (fundamentals) · REST APIs · Model Serving |
+| **Databases & Storage** | PostgreSQL · MongoDB · Vector Stores · CSV/JSON/XML |
+| **Platforms & Tools** | GitHub · Jupyter · VS Code · Google Colab · Weights & Biases |
 
 ---
 
-## 📈 Current Focus
+## 📈 Current Research & Focus
+
 - 🌾 **Crop Yield Prediction** — ML model using Random Forest + time series analysis for agribusiness stakeholders *(Journal in progress)*
-- 🏃 **Accelerometer-Based Human Activity Recognition** — Deep learning on accelerometer data for health monitoring *(Journal in progress)*
-- 💻 Competitive coding on [LeetCode](https://leetcode.com/hirthicksofficial)
+- 🏃 **Accelerometer-Based Human Activity Recognition** — Deep learning on wearable accelerometer data for health monitoring *(Journal in progress)*
+- 💻 Competitive problem solving on [LeetCode](https://leetcode.com/hirthicksofficial)
 
 ---
 
 ## 📫 Connect with Me
-- 📧 Email: [hirthicksofficial@gmail.com](mailto:hirthicksofficial@gmail.com)
-- 📄 [View My Resume](https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/Hirthick%20S%20Resume.pdf)
-- 🔗 [Portfolio & Projects](https://github.com/Hirthick6)
 
-> "Driven by data, powered by purpose."
+📧 [hirthicksofficial@gmail.com](mailto:hirthicksofficial@gmail.com) &nbsp;|&nbsp; 📄 [Resume](https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/Hirthick%20S%20Resume.pdf) &nbsp;|&nbsp; 🔗 [GitHub Portfolio](https://github.com/Hirthick6)
 
----
-
-### My Skills 
-<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" height="30"> <img src="http://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge&logo=machine-learning&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Deep%20Learning-blue?style=for-the-badge&logo=deep-learning&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Computer%20Vision-blue?style=for-the-badge&logo=computer-vision&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30">![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)  ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+> *"Driven by data, powered by purpose."*
 
 ---
 
-### Find me on 
+### My Skills
+
+<img src="https://img.shields.io/badge/-C-blue?style=for-the-badge&logo=c&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-C++-blue?style=for-the-badge&logo=c%2B%2B&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Python-blue?style=for-the-badge&logo=python&logoColor=FFFFFF" height="30"> <img src="https://img.shields.io/badge/-Java-blue?style=for-the-badge&logo=openjdk&logoColor=white" height="30"> <img src="http://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Machine%20Learning-blue?style=for-the-badge&logo=machine-learning&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Deep%20Learning-blue?style=for-the-badge&logo=deep-learning&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-Computer%20Vision-blue?style=for-the-badge&logo=computer-vision&logoColor=FFFFFF" height="30"> <img src="http://img.shields.io/badge/-MySQL-blue?style=for-the-badge&logo=mysql&logoColor=FFFFFF" height="30"> ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+---
+
+### Find me on
 
 _(click the button!)_
 
@@ -158,7 +208,7 @@ _(click the button!)_
 2. **Deep Learning Advancements in Malaria Diagnosis: A PyTorch-Based Ensemble Approach for Image Classification**  
    ➤ [Link to Paper](https://www.igi-global.com/chapter/deep-learning-advancements-in-malaria-diagnosis/351607)
 
-3. **Real-Time Startup Success Predictor Using Support Vector Machines and Neural Networks**
+3. **Real-Time Startup Success Predictor Using Support Vector Machines and Neural Networks**  
    ➤ [Link to Paper](https://ieeexplore.ieee.org/document/10863014)
 
 ---
