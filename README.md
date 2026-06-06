@@ -1,181 +1,202 @@
-# 👋 Hi, I'm Hirthick S
+<div align="center">
 
-### AI Engineer • Machine Learning Engineer • Generative AI Developer
+# Hirthick S
 
-Building production-grade AI systems that transform complex data into intelligent, scalable, and business-ready solutions.
+### AI Engineer · Machine Learning Engineer · Generative AI Developer
+
+*Building production-grade AI systems that transform complex data into intelligent, scalable, and business-ready solutions.*
+
+[![Email](https://img.shields.io/badge/Email-hirthicksofficial%40gmail.com-0052CC?style=flat-square&logo=gmail&logoColor=white)](mailto:hirthicksofficial@gmail.com)
+&nbsp;
+![Location](https://img.shields.io/badge/📍-Madurai%2C%20Tamil%20Nadu%2C%20India-444?style=flat-square)
+
+</div>
 
 ---
 
-📍 **Madurai, Tamil Nadu, India**  
-📧 **hirthicksofficial@gmail.com**  
-📄 **Resume**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blue?style=for-the-badge)](#projects)
-[![Resume](https://img.shields.io/badge/Resume-Download-success?style=for-the-badge)](#)
-
----
-
-## 🚀 About Me
+## 👋 About Me
 
 AI-focused Software Engineer with **2+ years of professional experience** delivering intelligent systems across **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Large Language Models**.
 
-I specialize in designing and deploying **end-to-end AI solutions** that bridge cutting-edge research with real-world business impact. My experience spans document intelligence, multimodal RAG systems, industrial video analytics, healthcare AI, and NLP-powered automation.
+I specialize in designing and deploying **end-to-end AI solutions** that bridge cutting-edge research with real-world business impact — spanning document intelligence, multimodal RAG systems, industrial video analytics, healthcare AI, and NLP-powered automation.
 
-My focus is on building AI products that are:
-
-- ⚡ Scalable
-- 🔍 Interpretable
-- 🏗️ Production-Ready
-- 📈 Business-Driven
-
----
-
-## 💡 Expertise
-
-- Machine Learning
-- Deep Learning
-- Computer Vision
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Natural Language Processing (NLP)
-- YOLOv8
-- AI Automation
-- MLOps
+> ⚡ **Scalable** &nbsp;·&nbsp; 🔍 **Interpretable** &nbsp;·&nbsp; 🏗️ **Production-Ready** &nbsp;·&nbsp; 📈 **Business-Driven**
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### AI & Machine Learning
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-### Generative AI
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-0052CC?style=flat-square)
-
-### Computer Vision
-![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square)
-
----
-
-## 🎯 Core Focus Areas
-
-- Document Intelligence Systems
-- Multimodal AI Applications
-- Enterprise RAG Solutions
-- Healthcare AI
-- Industrial Video Analytics
-- NLP Automation
-- AI-Powered Workflows
-- Intelligent Data Processing
-
----
-
-## 🌟 Mission
-
-> Building AI that is scalable, interpretable, and operationally impactful.
-
----
+| Category | Tools & Frameworks |
+|---|---|
+| **Languages** | Python |
+| **ML / Deep Learning** | TensorFlow, PyTorch, Scikit-Learn, LoRA, Transfer Learning |
+| **Generative AI** | OpenAI, LangChain, RAG, Vector Databases, Embeddings |
+| **Computer Vision** | YOLOv8, OpenCV, PaddleOCR, Edge Detection |
+| **NLP** | Transformers, BERT, Sentiment Analysis, Multi-class Classification |
+| **Explainability** | Grad-CAM, SHAP |
+| **Data & Backend** | PostgreSQL, Flask, REST APIs |
+| **MLOps** | Model retraining pipelines, data augmentation frameworks |
 
 ---
 
 ## 💼 Professional Experience
 
-<table>
-<tr>
-<td width="8" style="background:#4f46e5;border-radius:4px;"></td>
-<td>
-
 ### 🏢 Ventragate Technologies &nbsp;·&nbsp; Software Engineer — AI/ML
 `Jan 2025 – Present`
 
+<details>
+<summary><b>📄 Intelligent Document Processing System for Insurance Automation</b></summary>
+
+Architected a full-scale document intelligence platform to automate structured data extraction from high-volume unstructured insurance documents, supporting both manual PDF uploads and email-based ingestion pipelines.
+
+- **PaddleOCR** with advanced image preprocessing for scanned and low-quality documents
+- **RAG pipeline** powered by LLMs and LangChain for contextual document understanding
+- Structured JSON outputs integrated seamlessly with downstream enterprise workflows
+- **PostgreSQL** for secure, scalable storage of extracted data and user metadata
+
+`PaddleOCR` `LangChain` `RAG` `LLMs` `PostgreSQL` `Python`
+
+</details>
+
+<details>
+<summary><b>🎯 Real-Time Object Detection, Tracking & Cycle Time Analytics</b></summary>
+
+Engineered a real-time computer vision system for dynamic manufacturing environments, handling motion blur, lighting variation, and object overlap.
+
+- **YOLOv8** for high-accuracy detection + multi-object tracking across frames
+- Dedicated **cycle time analysis module** recording entry/exit timestamps across production zones
+- Live dashboards and intelligent alerts for real-time performance anomaly visibility
+
+`YOLOv8` `OpenCV` `Multi-Object Tracking` `Python`
+
+</details>
+
+<details>
+<summary><b>📐 Engineering Drawing Measurement Extraction System</b></summary>
+
+Developed an intelligent interpretation system for engineering drawings in PDF and image formats, automating extraction of geometric measurements and structural annotations.
+
+- OCR-based text extraction combined with edge detection and line recognition
+- Handles mechanical, architectural, and academic drawing formats
+- Converts unstructured visual data into clean, structured tabular outputs
+
+`PaddleOCR` `Edge Detection` `Image Processing` `Python`
+
+</details>
+
 ---
-
-**📄 Intelligent Document Processing System for Insurance Automation**
-`PaddleOCR · LangChain · RAG · LLMs · PostgreSQL · Python`
-
-Architected and deployed a full-scale document intelligence platform to automate structured data extraction from high-volume unstructured insurance documents, supporting both manual PDF uploads and email-based ingestion pipelines. The system leverages **PaddleOCR** with advanced image preprocessing to handle scanned and low-quality documents with high fidelity. A **Retrieval-Augmented Generation (RAG)** pipeline powered by LLMs and LangChain enables contextual document understanding, producing structured JSON outputs that integrate seamlessly with downstream enterprise workflows. The solution incorporates document chunking, embedding generation, and vector storage for efficient semantic retrieval, while **PostgreSQL** ensures secure, scalable storage of extracted data and sensitive user metadata.
-
----
-
-**🎯 Real-Time Object Detection, Tracking & Cycle Time Analytics**
-`YOLOv8 · OpenCV · Multi-Object Tracking · Python`
-
-Engineered a real-time computer vision system for dynamic manufacturing environments, capable of detecting and tracking multiple objects simultaneously under challenging conditions such as motion blur, lighting variation, and object overlap. The system uses **YOLOv8** for high-accuracy detection combined with multi-object tracking algorithms to maintain consistent identity across frames. A dedicated **cycle time analysis module** computes processing durations by recording entry and exit timestamps across defined production zones, surfacing workflow bottlenecks and enabling data-driven optimization. Live dashboards and intelligent alerts provide operators with real-time visibility into performance anomalies and delays.
-
----
-
-**📐 Engineering Drawing Measurement Extraction System**
-`PaddleOCR · Edge Detection · Image Processing · Python`
-
-Developed an intelligent interpretation system for engineering drawings in PDF and image formats, automating the extraction of geometric measurements and structural annotations from technical diagrams. The pipeline combines **OCR-based text extraction** with computer vision techniques — including edge detection and line recognition — to identify and quantify dimensions such as angles, lengths, and component boundaries. Robust preprocessing pipelines handle noisy inputs, distortions, and layout variations across mechanical, architectural, and academic drawing formats, converting unstructured visual data into clean, structured tabular outputs ready for engineering workflows.
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<table>
-<tr>
-<td width="8" style="background:#7c3aed;border-radius:4px;"></td>
-<td>
 
 ### 🏢 Gateway Software Solutions &nbsp;·&nbsp; Machine Learning Engineer
 `Dec 2023 – Jan 2025`
 
+<details>
+<summary><b>🛡️ NLP-Based Intelligent Content Moderation System</b></summary>
+
+Built a production-grade content moderation engine using fine-tuned transformer-based models to detect harmful content across real-time communication platforms.
+
+- Fine-tuned **BERT** for multi-class contextual classification on diverse, multilingual datasets
+- Processes text, emojis, abbreviations, and contextual cues simultaneously
+- Real-time interception with high accuracy and low false-positive rates
+
+`Transformers` `BERT` `Sentiment Analysis` `Deep Learning` `Python`
+
+</details>
+
+<details>
+<summary><b>🚗 AI-Based Multi-Stage Automotive Defect Detection System</b></summary>
+
+Production-line computer vision system inspecting car door handle assemblies across multiple manufacturing stages.
+
+- **Variant-aware pipeline** classifying and segregating **5 distinct door handle types**
+- Defect-driven **data augmentation framework** per handle type for continuous dataset enrichment
+- Detects misalignment, surface scratches, improper fitting, and missing sub-components
+
+`YOLOv8` `OpenCV` `Data Augmentation` `Deep Learning` `Python`
+
+</details>
+
+<details>
+<summary><b>🏭 Smart Manufacturing Assistant using Multimodal RAG</b></summary>
+
+Industrial AI assistant capable of reasoning over machine manuals (PDFs), defect images, production logs, and structured operational data through natural language queries.
+
+- **RAG pipeline** integrating OCR, document embeddings, and LLM reasoning
+- Powers intelligent troubleshooting, maintenance guidance, and root cause identification
+- Reduces downtime and enables faster, informed decision-making on the factory floor
+
+`LLMs` `RAG` `LangChain` `PaddleOCR` `Vector Search` `Python`
+
+</details>
+
+<details>
+<summary><b>🧬 AI-Driven Multi-Disease Medical Diagnosis System</b></summary>
+
+Intelligent diagnostic platform for multi-disease classification from medical imaging with clinical-grade explainability.
+
+- **CNNs** with transfer learning for high accuracy across multiple disease categories
+- **Grad-CAM** and **SHAP** for visual and feature-level interpretability
+- Model efficiency enhanced via **LoRA**, reducing computational overhead without performance loss
+
+`CNNs` `TensorFlow` `Transfer Learning` `LoRA` `Grad-CAM` `SHAP`
+
+</details>
+
+<details>
+<summary><b>🌾 AI-Powered Smart Agriculture Decision Support System</b></summary>
+
+Comprehensive agricultural AI platform integrating crop recommendation, fertilizer optimization, and plant disease detection.
+
+- Predictive models analysing climatic and soil conditions for crop and land suitability
+- Disease detection with cause identification, prevention strategies, and treatment recommendations
+- Interactive **Flask-based web platform** delivering real-time insights to farmers
+
+`Random Forest` `Deep Learning` `Flask` `Python`
+
+</details>
+
+<details>
+<summary><b>📊 Startup Success Prediction System</b></summary>
+
+Robust predictive modeling pipeline forecasting startup success from multi-dimensional business, financial, and market indicators.
+
+- **Five-model ensemble** — Random Forest, Gradient Boosting, Logistic Regression, SVM, KNN
+- **SMOTE-based class imbalance handling** and advanced feature engineering
+- Model interpretability surfaces key success drivers for data-driven investment decisions
+
+`Ensemble ML` `SMOTE` `Feature Engineering` `Python`
+
+</details>
+
 ---
 
-**🛡️ NLP-Based Intelligent Content Moderation System**
-`Transformers · BERT · Sentiment Analysis · Deep Learning · Python`
+## 🎯 Core Focus Areas
 
-Built a production-grade content moderation engine using fine-tuned **transformer-based models** to detect harmful, abusive, and cyberbullying content across real-time communication platforms. The system processes text, emojis, abbreviations, and contextual cues simultaneously, combining **sentiment analysis** with multi-class contextual classification trained on diverse, multilingual datasets. A real-time feedback mechanism intercepts inappropriate content during composition and triggers intelligent alerts — preventing harmful communication before it is published, with high accuracy and low false-positive rates.
-
----
-
-**🚗 AI-Based Multi-Stage Automotive Defect Detection System**
-`YOLOv8 · OpenCV · Data Augmentation · Deep Learning · Python`
-
-Designed a production-line computer vision system to inspect car door handle assemblies across multiple manufacturing stages, detecting defects including misalignment, surface scratches, improper fitting, and missing sub-components in real time. A **variant-aware pipeline** classifies and segregates **5 distinct door handle types**, enabling generalized detection across diverse shapes and designs. A defect-driven **data augmentation framework** applies targeted transformations per handle type — rotation, scaling, lighting variation — to continuously enrich the training dataset, with stage-wise labeling enabling traceable, incremental model retraining.
+```
+Document Intelligence      Multimodal AI Applications    Enterprise RAG Solutions
+Healthcare AI              Industrial Video Analytics     NLP Automation
+AI-Powered Workflows       Intelligent Data Processing
+```
 
 ---
 
-**🏭 Smart Manufacturing Assistant using Multimodal RAG**
-`LLMs · RAG · LangChain · PaddleOCR · Vector Search · Python`
+## 💡 Expertise
 
-Developed a multimodal AI assistant purpose-built for industrial environments, capable of reasoning over machine manuals (PDFs), defect images, production logs, and structured operational data through natural language queries. The **RAG pipeline** integrates OCR, document embeddings, and LLM reasoning to retrieve and synthesize relevant information from heterogeneous technical sources. The system powers intelligent troubleshooting, maintenance guidance, root cause identification, and operational recommendations — reducing downtime and enabling faster, more informed decision-making on the factory floor.
-
----
-
-**🧬 AI-Driven Multi-Disease Medical Diagnosis System**
-`CNNs · TensorFlow · Transfer Learning · LoRA · Grad-CAM · SHAP`
-
-Built an intelligent diagnostic platform for multi-disease classification from medical imaging, employing **convolutional neural networks** with transfer learning for high accuracy across multiple disease categories. **Explainable AI** techniques including **Grad-CAM** and **SHAP** provide clinicians with visual and feature-level interpretability, improving trust and transparency in AI-assisted diagnosis. Model efficiency was significantly enhanced using **Low-Rank Adaptation (LoRA)**, reducing computational overhead without compromising predictive performance. A scalable preprocessing and augmentation pipeline ensures reliable inference on real-world medical datasets.
+`Machine Learning` `Deep Learning` `Computer Vision` `Generative AI` `Large Language Models` `Retrieval-Augmented Generation` `Natural Language Processing` `YOLOv8` `AI Automation` `MLOps`
 
 ---
 
-**🌾 AI-Powered Smart Agriculture Decision Support System**
-`Random Forest · Deep Learning · Flask · Python`
+## 📬 Get in Touch
 
-Developed a comprehensive agricultural AI platform integrating **crop recommendation**, **fertilizer optimization**, and **plant disease detection** from soil, environmental, and image data. Beyond detection, the system provides cause identification, prevention strategies, and treatment recommendations — maximizing practical utility for farmers. Predictive models analyze climatic and soil conditions to assess crop and land suitability, while an interactive **Flask-based web platform** delivers real-time insights. Sustainable farming practices are embedded into system logic to minimize crop loss through early intervention.
+- 📧 **Email:** [hirthicksofficial@gmail.com](mailto:hirthicksofficial@gmail.com)
+- 📍 **Location:** Madurai, Tamil Nadu, India
 
 ---
 
-**📊 Startup Success Prediction System**
-`Ensemble ML · SMOTE · Feature Engineering · Python`
+<div align="center">
 
-Engineered a robust predictive modeling pipeline using a **five-model ensemble** — Random Forest, Gradient Boosting, Logistic Regression, SVM, and KNN — combined via Voting/Stacking strategies to forecast startup success from multi-dimensional business, financial, and market indicators. Advanced feature engineering, correlation analysis, and **SMOTE-based class imbalance handling** improve generalization and reduce overfitting. Model interpretability techniques surface the key success drivers, enabling data-driven investment decisions and strategic planning with measurable confidence.
+*"Building AI that is scalable, interpretable, and operationally impactful."*
 
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
