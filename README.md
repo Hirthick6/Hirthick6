@@ -2,7 +2,7 @@
 
 # Hirthick S
 
-### AI Engineer · Machine Learning Engineer · Generative AI Developer
+### Artificial Intelligence Engineer
 
 *Building production-grade AI systems that transform complex data into intelligent, scalable, and business-ready solutions.*
 
