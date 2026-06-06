@@ -1,10 +1,20 @@
-# Welcome to [Hirthick S's GitHub](https://github.com/Hirthick6) <a href="https://github.com/Hirthick6/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
-<img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/final.gif" align="right" width="20%" height="20%">
-<img src="https://raw.githubusercontent.com/Hirthick6/Oasis-Infobyte-Web-Development-and-Designing/main/airpla-unscreen.gif" align="right" width="20%" height="20%">
-
 ### 👨‍💻 About Me
 
-I am **Hirthick S**, an **AI-focused Software Engineer** with over **2 years of professional experience** in **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI**. I design and deploy production-grade, end-to-end intelligent systems that solve complex real-world problems — spanning **document intelligence**, **multimodal RAG pipelines**, **real-time video analytics**, **industrial automation**, and **healthcare AI**. I am passionate about transforming unstructured data into actionable insights and building AI systems that are scalable, interpretable, and operationally impactful.
+**Hirthick S** — AI-focused Software Engineer with **2+ years** of professional experience delivering production-grade intelligent systems across **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI**.
+
+I design and deploy end-to-end scalable AI solutions that bridge research and real-world impact — spanning **document intelligence**, **multimodal RAG pipelines**, **real-time industrial video analytics**, **healthcare AI**, and **NLP-based automation**. My work transforms unstructured, complex data into actionable insights for enterprises operating at scale.
+
+> *Building AI that is scalable, interpretable, and operationally impactful.*
+
+| 📍 Madurai, Tamil Nadu | 📧 [hirthicksofficial@gmail.com](mailto:hirthicksofficial@gmail.com) | 📄 [Resume](https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/Hirthick%20S%20Resume.pdf) |
+|:---:|:---:|:---:|
+
+![ML](https://img.shields.io/badge/Machine%20Learning-534AB7?style=flat-square&logoColor=white)
+![CV](https://img.shields.io/badge/Computer%20Vision-0F6E56?style=flat-square&logoColor=white)
+![GenAI](https://img.shields.io/badge/Generative%20AI-BA7517?style=flat-square&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG%20%C2%B7%20LLMs-993C1D?style=flat-square&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-185FA5?style=flat-square&logoColor=white)
+![YOLOv8](https://img.shields.io/badge/YOLOv8%20%C2%B7%20OCR-3B6D11?style=flat-square&logoColor=white)
 
 📍 Madurai, Tamil Nadu &nbsp;|&nbsp; 📧 [hirthicksofficial@gmail.com](mailto:hirthicksofficial@gmail.com) &nbsp;|&nbsp; 📄 [View My Resume](https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/Hirthick%20S%20Resume.pdf)
 
