@@ -13,13 +13,30 @@
 
 ---
 
+<div align="center">
+
+# Hirthick S
+
+### AI Engineer · Machine Learning Engineer · Generative AI Developer
+
+*Building production-grade AI systems that transform complex data into intelligent, scalable, and business-ready solutions.*
+
+[![Email](https://img.shields.io/badge/Email-hirthicksofficial%40gmail.com-0052CC?style=flat-square&logo=gmail&logoColor=white)](mailto:hirthicksofficial@gmail.com)
+&nbsp;&nbsp;
+![Location](https://img.shields.io/badge/📍_Madurai,_Tamil_Nadu,_India-555?style=flat-square)
+
+</div>
+
+---
+
 ## 👋 About Me
 
 AI-focused Software Engineer with **2+ years of professional experience** delivering intelligent systems across **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Large Language Models**.
 
 I specialize in designing and deploying **end-to-end AI solutions** that bridge cutting-edge research with real-world business impact — spanning document intelligence, multimodal RAG systems, industrial video analytics, healthcare AI, and NLP-powered automation.
 
-> ⚡ **Scalable** &nbsp;·&nbsp; 🔍 **Interpretable** &nbsp;·&nbsp; 🏗️ **Production-Ready** &nbsp;·&nbsp; 📈 **Business-Driven**
+| ⚡ Scalable | 🔍 Interpretable | 🏗️ Production-Ready | 📈 Business-Driven |
+|:-:|:-:|:-:|:-:|
 
 ---
 
@@ -28,70 +45,65 @@ I specialize in designing and deploying **end-to-end AI solutions** that bridge 
 | Category | Tools & Frameworks |
 |---|---|
 | **Languages** | Python |
-| **ML / Deep Learning** | TensorFlow, PyTorch, Scikit-Learn, LoRA, Transfer Learning |
-| **Generative AI** | OpenAI, LangChain, RAG, Vector Databases, Embeddings |
-| **Computer Vision** | YOLOv8, OpenCV, PaddleOCR, Edge Detection |
-| **NLP** | Transformers, BERT, Sentiment Analysis, Multi-class Classification |
-| **Explainability** | Grad-CAM, SHAP |
-| **Data & Backend** | PostgreSQL, Flask, REST APIs |
-| **MLOps** | Model retraining pipelines, data augmentation frameworks |
+| **ML / Deep Learning** | TensorFlow · PyTorch · Scikit-Learn · LoRA · Transfer Learning |
+| **Generative AI** | OpenAI · LangChain · RAG · Vector Databases · Embeddings |
+| **Computer Vision** | YOLOv8 · OpenCV · PaddleOCR · Edge Detection |
+| **NLP** | Transformers · BERT · Sentiment Analysis · Multi-class Classification |
+| **Explainability** | Grad-CAM · SHAP |
+| **Data & Backend** | PostgreSQL · Flask · REST APIs |
+| **MLOps** | Model retraining pipelines · Data augmentation frameworks |
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Ventragate Technologies &nbsp;·&nbsp; Software Engineer — AI/ML
-`Jan 2025 – Present`
+### 🏢 Ventragate Technologies &nbsp;·&nbsp; Software Engineer — AI/ML &nbsp;·&nbsp; `Jan 2025 – Present`
 
-<details>
-<summary><b>📄 Intelligent Document Processing System for Insurance Automation</b></summary>
+---
 
-Architected a full-scale document intelligence platform to automate structured data extraction from high-volume unstructured insurance documents, supporting both manual PDF uploads and email-based ingestion pipelines.
+#### 📄 Intelligent Document Processing — Insurance Automation
+
+> Full-scale document intelligence platform automating structured data extraction from high-volume insurance documents, with PDF uploads and email-based ingestion.
 
 - **PaddleOCR** with advanced image preprocessing for scanned and low-quality documents
-- **RAG pipeline** powered by LLMs and LangChain for contextual document understanding
-- Structured JSON outputs integrated seamlessly with downstream enterprise workflows
+- **RAG pipeline** via LLMs and LangChain for contextual understanding, producing structured JSON outputs
 - **PostgreSQL** for secure, scalable storage of extracted data and user metadata
 
 `PaddleOCR` `LangChain` `RAG` `LLMs` `PostgreSQL` `Python`
 
-</details>
+---
 
-<details>
-<summary><b>🎯 Real-Time Object Detection, Tracking & Cycle Time Analytics</b></summary>
+#### 🎯 Real-Time Object Detection, Tracking & Cycle Time Analytics
 
-Engineered a real-time computer vision system for dynamic manufacturing environments, handling motion blur, lighting variation, and object overlap.
+> Computer vision system for dynamic manufacturing environments handling motion blur, lighting variation, and object overlap.
 
-- **YOLOv8** for high-accuracy detection + multi-object tracking across frames
+- **YOLOv8** for high-accuracy detection with multi-object tracking across frames
 - Dedicated **cycle time analysis module** recording entry/exit timestamps across production zones
 - Live dashboards and intelligent alerts for real-time performance anomaly visibility
 
 `YOLOv8` `OpenCV` `Multi-Object Tracking` `Python`
 
-</details>
+---
 
-<details>
-<summary><b>📐 Engineering Drawing Measurement Extraction System</b></summary>
+#### 📐 Engineering Drawing Measurement Extraction
 
-Developed an intelligent interpretation system for engineering drawings in PDF and image formats, automating extraction of geometric measurements and structural annotations.
+> Intelligent interpretation system for engineering drawings in PDF and image formats, automating extraction of geometric measurements and structural annotations.
 
-- OCR-based text extraction combined with edge detection and line recognition
+- OCR-based text extraction combined with **edge detection** and line recognition
 - Handles mechanical, architectural, and academic drawing formats
 - Converts unstructured visual data into clean, structured tabular outputs
 
 `PaddleOCR` `Edge Detection` `Image Processing` `Python`
 
-</details>
+---
+
+### 🏢 Gateway Software Solutions &nbsp;·&nbsp; Machine Learning Engineer &nbsp;·&nbsp; `Dec 2023 – Jan 2025`
 
 ---
 
-### 🏢 Gateway Software Solutions &nbsp;·&nbsp; Machine Learning Engineer
-`Dec 2023 – Jan 2025`
+#### 🛡️ NLP-Based Intelligent Content Moderation
 
-<details>
-<summary><b>🛡️ NLP-Based Intelligent Content Moderation System</b></summary>
-
-Built a production-grade content moderation engine using fine-tuned transformer-based models to detect harmful content across real-time communication platforms.
+> Production-grade moderation engine using fine-tuned transformers to detect harmful content across real-time communication platforms.
 
 - Fine-tuned **BERT** for multi-class contextual classification on diverse, multilingual datasets
 - Processes text, emojis, abbreviations, and contextual cues simultaneously
@@ -99,12 +111,11 @@ Built a production-grade content moderation engine using fine-tuned transformer-
 
 `Transformers` `BERT` `Sentiment Analysis` `Deep Learning` `Python`
 
-</details>
+---
 
-<details>
-<summary><b>🚗 AI-Based Multi-Stage Automotive Defect Detection System</b></summary>
+#### 🚗 AI-Based Multi-Stage Automotive Defect Detection
 
-Production-line computer vision system inspecting car door handle assemblies across multiple manufacturing stages.
+> Production-line CV system inspecting car door handle assemblies across multiple manufacturing stages.
 
 - **Variant-aware pipeline** classifying and segregating **5 distinct door handle types**
 - Defect-driven **data augmentation framework** per handle type for continuous dataset enrichment
@@ -112,38 +123,35 @@ Production-line computer vision system inspecting car door handle assemblies acr
 
 `YOLOv8` `OpenCV` `Data Augmentation` `Deep Learning` `Python`
 
-</details>
+---
 
-<details>
-<summary><b>🏭 Smart Manufacturing Assistant using Multimodal RAG</b></summary>
+#### 🏭 Smart Manufacturing Assistant — Multimodal RAG
 
-Industrial AI assistant capable of reasoning over machine manuals (PDFs), defect images, production logs, and structured operational data through natural language queries.
+> Industrial AI assistant reasoning over machine manuals, defect images, production logs, and structured data through natural language queries.
 
 - **RAG pipeline** integrating OCR, document embeddings, and LLM reasoning
-- Powers intelligent troubleshooting, maintenance guidance, and root cause identification
+- Intelligent troubleshooting, maintenance guidance, and root cause identification
 - Reduces downtime and enables faster, informed decision-making on the factory floor
 
 `LLMs` `RAG` `LangChain` `PaddleOCR` `Vector Search` `Python`
 
-</details>
+---
 
-<details>
-<summary><b>🧬 AI-Driven Multi-Disease Medical Diagnosis System</b></summary>
+#### 🧬 AI-Driven Multi-Disease Medical Diagnosis System
 
-Intelligent diagnostic platform for multi-disease classification from medical imaging with clinical-grade explainability.
+> Diagnostic platform for multi-disease classification from medical imaging with clinical-grade explainability.
 
 - **CNNs** with transfer learning for high accuracy across multiple disease categories
-- **Grad-CAM** and **SHAP** for visual and feature-level interpretability
-- Model efficiency enhanced via **LoRA**, reducing computational overhead without performance loss
+- **Grad-CAM** and **SHAP** for visual and feature-level interpretability — improving clinical trust
+- **LoRA** applied to reduce computational overhead without compromising performance
 
 `CNNs` `TensorFlow` `Transfer Learning` `LoRA` `Grad-CAM` `SHAP`
 
-</details>
+---
 
-<details>
-<summary><b>🌾 AI-Powered Smart Agriculture Decision Support System</b></summary>
+#### 🌾 AI-Powered Smart Agriculture Decision Support
 
-Comprehensive agricultural AI platform integrating crop recommendation, fertilizer optimization, and plant disease detection.
+> Agricultural AI platform integrating crop recommendation, fertilizer optimization, and plant disease detection from soil and image data.
 
 - Predictive models analysing climatic and soil conditions for crop and land suitability
 - Disease detection with cause identification, prevention strategies, and treatment recommendations
@@ -151,40 +159,38 @@ Comprehensive agricultural AI platform integrating crop recommendation, fertiliz
 
 `Random Forest` `Deep Learning` `Flask` `Python`
 
-</details>
+---
 
-<details>
-<summary><b>📊 Startup Success Prediction System</b></summary>
+#### 📊 Startup Success Prediction System
 
-Robust predictive modeling pipeline forecasting startup success from multi-dimensional business, financial, and market indicators.
+> Predictive modeling pipeline forecasting startup success from multi-dimensional business, financial, and market indicators.
 
 - **Five-model ensemble** — Random Forest, Gradient Boosting, Logistic Regression, SVM, KNN
-- **SMOTE-based class imbalance handling** and advanced feature engineering
-- Model interpretability surfaces key success drivers for data-driven investment decisions
+- **SMOTE-based** class imbalance handling and advanced feature engineering
+- Interpretability techniques surface key success drivers for data-driven investment decisions
 
 `Ensemble ML` `SMOTE` `Feature Engineering` `Python`
-
-</details>
 
 ---
 
 ## 🎯 Core Focus Areas
 
 ```
-Document Intelligence      Multimodal AI Applications    Enterprise RAG Solutions
-Healthcare AI              Industrial Video Analytics     NLP Automation
-AI-Powered Workflows       Intelligent Data Processing
+Document Intelligence       Multimodal AI Applications    Enterprise RAG Solutions
+Healthcare AI               Industrial Video Analytics     NLP Automation
+AI-Powered Workflows        Intelligent Data Processing
 ```
 
 ---
 
 ## 💡 Expertise
 
-`Machine Learning` `Deep Learning` `Computer Vision` `Generative AI` `Large Language Models` `Retrieval-Augmented Generation` `Natural Language Processing` `YOLOv8` `AI Automation` `MLOps`
+`Machine Learning` `Deep Learning` `Computer Vision` `Generative AI` `Large Language Models`
+`Retrieval-Augmented Generation` `Natural Language Processing` `YOLOv8` `AI Automation` `MLOps`
 
 ---
 
-## 📬 Get in Touch
+## 📬 Contact
 
 - 📧 **Email:** [hirthicksofficial@gmail.com](mailto:hirthicksofficial@gmail.com)
 - 📍 **Location:** Madurai, Tamil Nadu, India
