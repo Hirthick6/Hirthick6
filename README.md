@@ -17,24 +17,27 @@ AI-focused Software Engineer with **2+ years of professional experience** delive
 
 I specialize in designing and deploying **end-to-end AI solutions** that bridge cutting-edge research with real-world business impact — spanning document intelligence, multimodal RAG systems, industrial video analytics, healthcare AI, and NLP-powered automation.
 
-| ⚡ Scalable | 🔍 Interpretable | 🏗️ Production-Ready | 📈 Business-Driven |
-|:-:|:-:|:-:|:-:|
+
 
 ---
-
 ## 🛠️ Tech Stack
-
-| Category | Tools & Frameworks |
-|---|---|
-| **Languages** | Python |
-| **ML / Deep Learning** | TensorFlow · PyTorch · Scikit-Learn · LoRA · Transfer Learning |
-| **Generative AI** | OpenAI · LangChain · RAG · Vector Databases · Embeddings |
-| **Computer Vision** | YOLOv8 · OpenCV · PaddleOCR · Edge Detection |
-| **NLP** | Transformers · BERT · Sentiment Analysis · Multi-class Classification |
-| **Explainability** | Grad-CAM · SHAP |
-| **Data & Backend** | PostgreSQL · Flask · REST APIs |
-| **MLOps** | Model retraining pipelines · Data augmentation frameworks |
-
+ 
+| Domain | Stack |
+|:---|:---|
+| **Core Language** | Python · SQL |
+| **Machine Learning** | PyTorch · TensorFlow · Scikit-Learn · XGBoost · LightGBM · Ensemble Methods · SMOTE · Feature Engineering |
+| **Deep Learning** | CNNs · RNNs · Transformers · Transfer Learning · LoRA · QLoRA · Fine-Tuning · PEFT |
+| **Generative AI** | LLMs · LangChain · LangGraph · RAG · Advanced RAG · Prompt Engineering · OpenAI API |
+| **Vector & Retrieval** | FAISS · ChromaDB · Pinecone · Semantic Search · Hybrid Search · Re-ranking |
+| **Agentic AI** | AI Agents · ReAct Framework · Tool Use · Function Calling · Autonomous Pipelines · LangGraph |
+| **Computer Vision** | YOLOv8 · OpenCV · PaddleOCR · Object Tracking · Image Segmentation · Edge Detection |
+| **Multimodal AI** | Multimodal RAG · Document Intelligence · OCR Pipelines · Vision-Language Models |
+| **NLP** | BERT · Transformers · Text Classification · NER · Sentiment Analysis · Tokenization |
+| **Explainability (XAI)** | Grad-CAM · SHAP · LIME · Explainable AI |
+| **MLOps & Deployment** | Flask · Streamlit · Docker · REST APIs · Model Serving · Weights & Biases |
+| **Databases & Storage** | PostgreSQL · MongoDB · Vector Stores · FAISS · ChromaDB |
+| **Platforms & Tools** | GitHub · Jupyter · VS Code · Google Colab · Weights & Biases |
+ 
 ---
 
 ## 💼 Professional Experience
@@ -199,22 +202,21 @@ AI-Powered Workflows        Intelligent Data Processing
 ---
 
 ## 🧠 Technical Proficiencies
-
+ 
 | Domain | Technologies & Tools |
 |:---|:---|
-| **Languages** | Python · SQL · C · C++ · Java · PHP · HTML/CSS |
-| **Machine Learning** | Scikit-learn · Ensemble Methods · SMOTE · Feature Engineering · XGBoost · LightGBM |
-| **Deep Learning** | PyTorch · TensorFlow · CNNs · RNNs · Transformers · Transfer Learning · LoRA · Fine-Tuning |
-| **Generative AI** | LLMs · LangChain · RAG · Prompt Engineering · Vector Databases · Embeddings · FAISS · ChromaDB |
-| **Computer Vision** | OpenCV · YOLOv8 · PaddleOCR · Edge Detection · Object Tracking · Image Segmentation |
-| **Explainability & Ethics** | Grad-CAM · SHAP · LIME · Explainable AI (XAI) |
-| **Multimodal AI** | Multimodal RAG · Document Intelligence · OCR Pipelines · Vision-Language Models |
-| **Agentic AI** | AI Agents · Tool Use · ReAct Framework · Autonomous Pipelines |
-| **NLP** | NLTK · Sentiment Analysis · Text Classification · Named Entity Recognition · Tokenization |
-| **MLOps & Deployment** | Flask · Streamlit · Docker (fundamentals) · REST APIs · Model Serving |
-| **Databases & Storage** | PostgreSQL · MongoDB · Vector Stores · CSV/JSON/XML |
+| **Machine Learning** | Scikit-Learn · XGBoost · LightGBM · Ensemble Methods · SMOTE · Feature Engineering · Hyperparameter Tuning |
+| **Deep Learning** | PyTorch · TensorFlow · CNNs · RNNs · Transformers · Transfer Learning · LoRA · QLoRA · PEFT · Fine-Tuning |
+| **Generative AI** | LLMs · LangChain · LangGraph · RAG · Advanced RAG · Prompt Engineering · OpenAI API · Embeddings |
+| **Vector & Retrieval** | FAISS · ChromaDB · Pinecone · Semantic Search · Hybrid Search · Re-ranking · Embedding Models |
+| **Agentic AI** | AI Agents · ReAct Framework · Tool Use · Function Calling · Autonomous Pipelines · Multi-Agent Systems |
+| **Computer Vision** | YOLOv8 · OpenCV · PaddleOCR · Object Tracking · Image Segmentation · Edge Detection · Multi-Object Tracking |
+| **Multimodal AI** | Multimodal RAG · Document Intelligence · OCR Pipelines · Vision-Language Models · Document Parsing |
+| **NLP** | BERT · Transformers · Text Classification · NER · Sentiment Analysis · Multilingual Models |
+| **Explainability (XAI)** | Grad-CAM · SHAP · LIME · Model Interpretability · Explainable AI |
+| **MLOps & Deployment** | Flask · Streamlit · Docker · REST APIs · Model Serving · Experiment Tracking · Weights & Biases |
+| **Databases & Storage** | PostgreSQL · MongoDB · Vector Stores · FAISS · ChromaDB · JSON/XML Pipelines |
 | **Platforms & Tools** | GitHub · Jupyter · VS Code · Google Colab · Weights & Biases |
-
 ---
 
 ## 📈 Current Research & Focus
