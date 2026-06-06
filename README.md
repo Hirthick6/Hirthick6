@@ -11,24 +11,6 @@
 
 </div>
 
----
-
-<div align="center">
-
-# Hirthick S
-
-### AI Engineer · Machine Learning Engineer · Generative AI Developer
-
-*Building production-grade AI systems that transform complex data into intelligent, scalable, and business-ready solutions.*
-
-[![Email](https://img.shields.io/badge/Email-hirthicksofficial%40gmail.com-0052CC?style=flat-square&logo=gmail&logoColor=white)](mailto:hirthicksofficial@gmail.com)
-&nbsp;&nbsp;
-![Location](https://img.shields.io/badge/📍_Madurai,_Tamil_Nadu,_India-555?style=flat-square)
-
-</div>
-
----
-
 ## 👋 About Me
 
 AI-focused Software Engineer with **2+ years of professional experience** delivering intelligent systems across **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Large Language Models**.
