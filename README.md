@@ -1,7 +1,6 @@
 <div align="center">
 
 # Hirthick S
-
 ### Artificial Intelligence Engineer
 
 *Building production-grade AI systems that transform complex data into intelligent, scalable, and business-ready solutions.*
