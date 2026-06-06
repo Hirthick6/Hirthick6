@@ -1,22 +1,88 @@
-### 👨‍💻 About Me
+# 👋 Hi, I'm Hirthick S
 
-**Hirthick S** — AI-focused Software Engineer with **2+ years** of professional experience delivering production-grade intelligent systems across **Machine Learning**, **Deep Learning**, **Computer Vision**, and **Generative AI**.
+### AI Engineer • Machine Learning Engineer • Generative AI Developer
 
-I design and deploy end-to-end scalable AI solutions that bridge research and real-world impact — spanning **document intelligence**, **multimodal RAG pipelines**, **real-time industrial video analytics**, **healthcare AI**, and **NLP-based automation**. My work transforms unstructured, complex data into actionable insights for enterprises operating at scale.
+Building production-grade AI systems that transform complex data into intelligent, scalable, and business-ready solutions.
 
-> *Building AI that is scalable, interpretable, and operationally impactful.*
+---
 
-| 📍 Madurai, Tamil Nadu | 📧 [hirthicksofficial@gmail.com](mailto:hirthicksofficial@gmail.com) | 📄 [Resume](https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/Hirthick%20S%20Resume.pdf) |
-|:---:|:---:|:---:|
+📍 **Madurai, Tamil Nadu, India**  
+📧 **hirthicksofficial@gmail.com**  
+📄 **Resume**
 
-![ML](https://img.shields.io/badge/Machine%20Learning-534AB7?style=flat-square&logoColor=white)
-![CV](https://img.shields.io/badge/Computer%20Vision-0F6E56?style=flat-square&logoColor=white)
-![GenAI](https://img.shields.io/badge/Generative%20AI-BA7517?style=flat-square&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG%20%C2%B7%20LLMs-993C1D?style=flat-square&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-185FA5?style=flat-square&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8%20%C2%B7%20OCR-3B6D11?style=flat-square&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Projects-blue?style=for-the-badge)](#projects)
+[![Resume](https://img.shields.io/badge/Resume-Download-success?style=for-the-badge)](#)
 
-📍 Madurai, Tamil Nadu &nbsp;|&nbsp; 📧 [hirthicksofficial@gmail.com](mailto:hirthicksofficial@gmail.com) &nbsp;|&nbsp; 📄 [View My Resume](https://github.com/Hirthick6/Hirthick-Portfolio-Resume/blob/main/Hirthick%20S%20Resume.pdf)
+---
+
+## 🚀 About Me
+
+AI-focused Software Engineer with **2+ years of professional experience** delivering intelligent systems across **Machine Learning, Deep Learning, Computer Vision, Generative AI, and Large Language Models**.
+
+I specialize in designing and deploying **end-to-end AI solutions** that bridge cutting-edge research with real-world business impact. My experience spans document intelligence, multimodal RAG systems, industrial video analytics, healthcare AI, and NLP-powered automation.
+
+My focus is on building AI products that are:
+
+- ⚡ Scalable
+- 🔍 Interpretable
+- 🏗️ Production-Ready
+- 📈 Business-Driven
+
+---
+
+## 💡 Expertise
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Generative AI
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- Natural Language Processing (NLP)
+- YOLOv8
+- AI Automation
+- MLOps
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### AI & Machine Learning
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+### Generative AI
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square)
+![RAG](https://img.shields.io/badge/RAG-0052CC?style=flat-square)
+
+### Computer Vision
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111827?style=flat-square)
+
+---
+
+## 🎯 Core Focus Areas
+
+- Document Intelligence Systems
+- Multimodal AI Applications
+- Enterprise RAG Solutions
+- Healthcare AI
+- Industrial Video Analytics
+- NLP Automation
+- AI-Powered Workflows
+- Intelligent Data Processing
+
+---
+
+## 🌟 Mission
+
+> Building AI that is scalable, interpretable, and operationally impactful.
+
+---
 
 ---
 
