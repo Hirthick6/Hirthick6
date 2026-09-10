@@ -262,6 +262,77 @@ I specialize in designing and deploying **end-to-end AI solutions** that bridge 
 | **Platforms & Tools** | GitHub · Jupyter · VS Code · Google Colab · Weights & Biases |
 ---
 
+## 🏆 AWS Certifications & Badges
+
+### ☁️ AWS Certified AI Practitioner
+
+<p align="left">
+  <a href="https://www.credly.com/badges/e2dfb683-0e5f-477a-b665-cd6c35da142d/public_url" target="_blank">
+    <img
+      src="./assets/aws-ai-practitioner.png"
+      alt="AWS Certified AI Practitioner"
+      width="180"
+    />
+  </a>
+</p>
+
+<p>
+  <strong>AWS Certified AI Practitioner</strong><br>
+  Amazon Web Services
+</p>
+
+### 🎖️ AWS Demonstrated Badges
+
+<p align="left">
+
+  <a href="https://www.credly.com/badges/66a03c47-36c3-4c81-914f-c23da8951228/public_url" target="_blank">
+    <img
+      src="./assets/aws-mlops.png"
+      alt="AWS MLOps Demonstrated"
+      width="140"
+    />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://www.credly.com/badges/daaf66a8-0b14-4eb0-87f7-43711e14a983/public_url" target="_blank">
+    <img
+      src="./assets/aws-data-lakehouse.png"
+      alt="AWS Data Lakehouse Demonstrated"
+      width="140"
+    />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://www.credly.com/badges/b5a93f00-33ea-4787-b255-f154b6aefc75/public_url" target="_blank">
+    <img
+      src="./assets/aws-incident-response.png"
+      alt="AWS Incident Response Demonstrated"
+      width="140"
+    />
+  </a>
+
+  &nbsp;&nbsp;
+
+  <a href="https://www.credly.com/badges/a8f3fc86-58c4-42b3-9432-dee5ca5acdd0/public_url" target="_blank">
+    <img
+      src="./assets/aws-application-networking.png"
+      alt="AWS Application Networking Demonstrated"
+      width="140"
+    />
+  </a>
+
+</p>
+
+<p>
+  <em>
+    Click any badge to verify it on Credly.
+  </em>
+</p>
+
+---
+
 ## 📈 Current Research & Focus
 
 - 🌾 **Crop Yield Prediction** — ML model using Random Forest + time series analysis for agribusiness stakeholders *(Journal in progress)*
