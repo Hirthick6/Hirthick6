@@ -263,11 +263,65 @@ I specialize in designing and deploying **end-to-end AI solutions** that bridge 
 
 ## 🏆 AWS Certifications & Badges
 
-| [![AWS Certified AI Practitioner](./assets/aws-ai-practitioner.png)](https://www.credly.com/badges/e2dfb683-0e5f-477a-b665-cd6c35da142d/public_url) | [![AWS MLOps Demonstrated](./assets/aws-mlops.png)](https://www.credly.com/badges/66a03c47-36c3-4c81-914f-c23da8951228/public_url) | [![AWS Data Lakehouse Demonstrated](./assets/aws-data-lakehouse.png)](https://www.credly.com/badges/daaf66a8-0b14-4eb0-87f7-43711e14a983/public_url) | [![AWS Incident Response Demonstrated](./assets/aws-incident-response.png)](https://www.credly.com/badges/b5a93f00-33ea-4787-b255-f154b6aefc75/public_url) | [![AWS Application Networking Demonstrated](./assets/aws-application-networking.png)](https://www.credly.com/badges/a8f3fc86-58c4-42b3-9432-dee5ca5acdd0/public_url) |
-|:---:|:---:|:---:|:---:|:---:|
-| **AWS Certified**<br>**AI Practitioner** | **AWS MLOps**<br>**Demonstrated** | **AWS Data Lakehouse**<br>**Demonstrated** | **AWS Incident Response**<br>**Demonstrated** | **AWS Application Networking**<br>**Demonstrated** |
+<table>
+<tr>
 
----
+<td align="center" width="20%">
+  <a href="https://www.credly.com/badges/e2dfb683-0e5f-477a-b665-cd6c35da142d/public_url">
+    <img src="./assests/aws-ai-practitioner.png" width="110" height="110" alt="AWS Certified AI Practitioner">
+  </a>
+</td>
+
+<td align="center" width="20%">
+  <a href="https://www.credly.com/badges/66a03c47-36c3-4c81-914f-c23da8951228/public_url">
+    <img src="./assests/aws-mlops.png" width="110" height="110" alt="AWS MLOps Demonstrated">
+  </a>
+</td>
+
+<td align="center" width="20%">
+  <a href="https://www.credly.com/badges/daaf66a8-0b14-4eb0-87f7-43711e14a983/public_url">
+    <img src="./assests/aws-data-lakehouse.png" width="110" height="110" alt="AWS Data Lakehouse Demonstrated">
+  </a>
+</td>
+
+<td align="center" width="20%">
+  <a href="https://www.credly.com/badges/b5a93f00-33ea-4787-b255-f154b6aefc75/public_url">
+    <img src="./assests/aws-incident-response.png" width="110" height="110" alt="AWS Incident Response Demonstrated">
+  </a>
+</td>
+
+<td align="center" width="20%">
+  <a href="https://www.credly.com/badges/a8f3fc86-58c4-42b3-9432-dee5ca5acdd0/public_url">
+    <img src="./assests/aws-application-networking.png" width="110" height="110" alt="AWS Application Networking Demonstrated">
+  </a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+  <strong>AWS Certified<br>AI Practitioner</strong>
+</td>
+
+<td align="center">
+  <strong>AWS MLOps<br>Demonstrated</strong>
+</td>
+
+<td align="center">
+  <strong>AWS Data Lakehouse<br>Demonstrated</strong>
+</td>
+
+<td align="center">
+  <strong>AWS Incident Response<br>Demonstrated</strong>
+</td>
+
+<td align="center">
+  <strong>AWS Application Networking<br>Demonstrated</strong>
+</td>
+
+</tr>
+</table>
 
 
 ## 📈 Current Research & Focus
